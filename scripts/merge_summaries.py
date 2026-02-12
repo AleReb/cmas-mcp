@@ -2,12 +2,18 @@ import json
 import os
 
 proc_path = os.path.join("D:\\cmas-mcp", "data/processed/youtube/processed_videos_v1.jsonl")
-summary_path = os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_1_summaries.json")
+summary_paths = [
+    os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_1_summaries.json"),
+    os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_2_summaries.json")
+]
 
-with open(summary_path, 'r', encoding='utf-8') as f:
-    summaries = json.load(f)
-
-summary_map = {s['id']: s for s in summaries}
+summary_map = {}
+for path in summary_paths:
+    if os.path.exists(path):
+        with open(path, 'r', encoding='utf-8') as f:
+            summaries = json.load(f)
+            for s in summaries:
+                summary_map[s['id']] = s
 
 updated_lines = []
 if os.path.exists(proc_path):
