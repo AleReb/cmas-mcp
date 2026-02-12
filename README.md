@@ -12,9 +12,9 @@ Esta carpeta gestiona el ciclo de vida de la información, desde su captura brut
 - **`data/raw/`**: Almacena los datos originales sin procesar.
     - `youtube/`: Metadatos completos y archivos de subtítulos (`.vtt`) extraídos del canal de la Dirección de Innovación.
     - `cmas_web/`: Contenido crudo obtenido mediante crawling del sitio oficial CMAS UDD.
-- **`data/processed/`**: Es la "base de conocimiento" optimizada.
-    - Aquí los textos son limpiados, divididos en fragmentos (chunking) y enriquecidos con resúmenes ejecutivos, palabras clave y entidades identificadas mediante IA.
-    - Contiene el archivo maestro `processed_videos_v1.jsonl` que sirve de fuente principal para el servidor MCP.
+- **`data/processed/`**: Es la **Base de Conocimiento** optimizada para Inteligencia Artificial.
+    - **Propósito:** Los LLMs no pueden "ver" videos ni procesar miles de transcripciones desordenadas eficientemente. En esta carpeta, los textos son limpiados, divididos en fragmentos (chunking) y enriquecidos con resúmenes ejecutivos, palabras clave y entidades identificadas.
+    - **Archivo Maestro:** `processed_videos_v1.jsonl`. Es el archivo que lee el servidor MCP para entregar respuestas rápidas y precisas.
 
 ### `scripts/` - Herramientas de Automatización
 Scripts en Python para las diferentes fases del pipeline:
@@ -33,13 +33,3 @@ Contiene la implementación del servidor MCP (basado en `FastMCP`) que expone la
 - [x] **Fase 2 (Ingesta):** Captura del 100% de metadatos y subtítulos del canal de YouTube (193 videos).
 - [x] **Fase 3 (Pipeline):** Estructuración de datos procesados, generación de índice léxico y limpieza de texto.
 - [ ] **En progreso:** Generación masiva de resúmenes expertos de alto valor para todo el dataset.
-
-## Setup
-```bash
-pip install httpx lxml pyyaml mcp yt-dlp
-```
-
-## Ejecución (Pipeline)
-1. **Ingesta y Captura:** `python scripts/ingest_youtube.py`
-2. **Procesamiento de Conocimiento:** `python scripts/process_next_batch.py [offset]`
-3. **Lanzar Servidor:** `python src/mcp_server/server.py`

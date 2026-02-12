@@ -25,7 +25,9 @@ def prepare_batch(offset, limit=20):
     if os.path.exists(raw_path):
         with open(raw_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
-            for line in lines[offset:offset+limit]:
+            # Handle list slicing safely
+            target_lines = lines[offset : offset + limit]
+            for line in target_lines:
                 video = json.loads(line)
                 vid_id = video['id']
                 
@@ -47,6 +49,7 @@ def prepare_batch(offset, limit=20):
 
 if __name__ == "__main__":
     import sys
-    off = int(sys.argv[1]) if len(sys.argv) > 1 else 10
-    limit = int(sys.argv[2]) if len(sys.argv) > 2 else 20
+    # offset starts at 0 for the first line
+    off = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    limit = int(sys.argv[2]) if len(sys.argv) > 2 else 10
     print(json.dumps(prepare_batch(off, limit), ensure_ascii=False))

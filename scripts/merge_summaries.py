@@ -4,7 +4,8 @@ import os
 proc_path = os.path.join("D:\\cmas-mcp", "data/processed/youtube/processed_videos_v1.jsonl")
 summary_paths = [
     os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_1_summaries.json"),
-    os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_2_summaries.json")
+    os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_2_summaries.json"),
+    os.path.join("D:\\cmas-mcp", "data/processed/youtube/batch_3_summaries.json")
 ]
 
 summary_map = {}
