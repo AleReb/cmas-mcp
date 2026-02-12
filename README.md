@@ -7,27 +7,26 @@ Construir un pipeline de conocimiento para un MCP que combine:
 1. Canal YouTube: https://www.youtube.com/@direcciondeinnovacion-inge4104
 2. Sitio CMAS: https://cmas.udd.cl/
 
-## Alcance actual (hecho)
-- Estructura de carpetas creada.
-- Análisis de arquitectura MCP documentado en `docs/02_mcp_baseline.md`.
-- Scripts de ingesta para YouTube (mock) y CMAS Web (lxml) funcionales.
-- Configuración base en `config/`.
-- Esqueleto del servidor MCP en `src/mcp_server/server.py`.
-- Smoke test realizado y documentado en `docs/03_smoke_test.md`.
+## Alcance actual (Fases 1-3)
+- **Fase 1 (Baseline):** Arquitectura MCP documentada en `docs/02_mcp_baseline.md`. Soporte para stdio, herramientas y recursos.
+- **Fase 2 (Ingesta YT):** Ingesta completa de metadatos de YouTube implementada en `scripts/ingest_youtube.py`. Datos en `data/raw/youtube/`.
+- **Fase 3 (Pipeline):** Procesamiento por lotes (limpieza, chunking, resúmenes base) implementado en `scripts/process_pipeline.py`. Resultados en `data/processed/youtube/`.
 
 ## Setup
-Para instalar las dependencias necesarias:
 ```bash
-pip install httpx lxml pyyaml mcp
+pip install httpx lxml pyyaml mcp yt-dlp
 ```
 
 ## Ejecución
-1. **Ingesta de datos:**
+1. **Ingesta YouTube (Phase 2):**
    ```bash
    python scripts/ingest_youtube.py
-   python scripts/scrape_cmas.py
    ```
-2. **Iniciar servidor MCP:**
+2. **Pipeline de Conocimiento (Phase 3 - Lotes de 10):**
+   ```bash
+   python scripts/process_pipeline.py
+   ```
+3. **Servidor MCP:**
    ```bash
    python src/mcp_server/server.py
    ```

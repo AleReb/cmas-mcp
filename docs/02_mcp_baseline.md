@@ -1,25 +1,30 @@
-# Baseline Técnico: Arquitectura MCP
+# Baseline Técnico: Arquitectura MCP (v2)
 
-Este documento resume las decisiones de arquitectura basadas en el análisis de `github-mcp-server` y las mejores prácticas del Model Context Protocol (MCP).
+Este documento detalla la arquitectura del servidor MCP basada en el análisis de `github-mcp-server` y los requerimientos del proyecto CMAS.
 
-## 1. Patrón de Implementación
-Se adopta el patrón de **Servidor MCP basado en Herramientas (Tools)** utilizando la librería `fastmcp` para Python. Este enfoque permite una definición declarativa y tipada de las capacidades del servidor.
+## 1. Protocolo y Transporte
+Siguiendo el estándar MCP, se implementarán los siguientes transportes:
+- **stdio (Estándar):** Para integración directa con clientes locales (e.g., Claude Desktop).
+- **HTTP/SSE (Opcional):** Para integraciones distribuidas si se requiere en fases posteriores.
 
-### Similitudes con GitHub MCP Server:
-- **Herramientas de Búsqueda y Lectura:** Al igual que el servidor de GitHub expone herramientas para buscar repositorios y leer archivos, CMAS MCP expondrá herramientas para buscar videos y leer transcripciones/páginas web.
-- **Manejo de Contexto:** Se implementará una estrategia "anti-overflow" para evitar saturar el contexto del LLM con datos crudos excesivos.
-- **Configuración vía Entorno/YAML:** Las fuentes y parámetros se gestionarán externamente.
+## 2. Primitivas MCP
+- **Tools (Herramientas):** Acciones ejecutables para búsqueda y recuperación de información específica.
+  - `list_videos`: Lista general con paginación.
+  - `search_videos`: Búsqueda léxica/semántica.
+- **Resources (Recursos):** Datos estáticos o dinámicos accesibles vía URIs.
+  - `youtube://video/{id}/summary`: Acceso al resumen procesado.
+  - `cmas://page/{slug}`: Contenido de páginas web.
+- **Prompts (Plantillas):** Guías para que el LLM interactúe con el conocimiento de CMAS.
 
-## 2. Estructura de Datos
-- **Raw Data:** JSONL para almacenamiento eficiente de registros (videos, páginas).
-- **Metadata:** Esquema mínimo (id, título, url, fecha, contenido/resumen).
+## 3. Esquema de Respuesta y Paginación
+- **Schema:** Las respuestas seguirán el formato JSON-RPC 2.0 de MCP.
+- **Paginación:** Las herramientas de listado aceptarán parámetros `cursor` o `offset` para manejar grandes volúmenes de datos.
+- **Caching:** Se implementará una capa de caché en `data/cache/` para metadatos frecuentes de la API de YouTube.
 
-## 3. Estrategia Anti-Overflow
-- **Resúmenes:** En lugar de devolver transcripciones completas de 1 hora, se devolverán resúmenes o fragmentos relevantes.
-- **Paginación/Límites:** Las herramientas de búsqueda limitarán el número de resultados devueltos por defecto.
+## 4. Estructura de Datos (Anti-Overflow)
+Para evitar saturar el contexto del modelo:
+- Las herramientas de búsqueda devolverán **snippets** (fragmentos) y **metadatos**.
+- El contenido completo solo se entregará bajo demanda mediante recursos específicos de "lectura profunda".
 
-## 4. Herramientas Definidas
-1. `list_videos`: Lista videos disponibles con metadatos básicos.
-2. `search_videos`: Búsqueda semántica o por palabras clave en los títulos/descripciones.
-3. `get_video_summary`: Obtiene el resumen de un video específico (evitando el "overflow" del contenido completo).
-4. `search_cmas_pages`: Busca información en las páginas rastreadas del sitio CMAS.
+## 5. Template Base
+El archivo `src/mcp_server/server.py` actúa como el template base, utilizando `FastMCP` para facilitar la extensión de herramientas y recursos.
