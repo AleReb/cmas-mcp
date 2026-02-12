@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GY0XLw3vwwQ",
+    "summary": "Este proyecto desarrolla una estrategia de turismo indígena y comunitario para la comunidad Aymara de Cancosa en entornos de montaña. La iniciativa incluye la formación de guías y el fortalecimiento del desarrollo local mediante la puesta en valor del patrimonio natural y cultural.",
+    "keywords": ["Turismo indígena", "Cancosa", "Desarrollo local", "Guías de montaña", "Aymara"],
+    "entities": ["Patricia Brewer Moreno", "Comunidad Aymara de Cancosa", "Centro SEM", "Perta Tamarugal", "Región de Tarapacá", "Academia de Montaña"]
+  },
+  {
+    "id": "DrwtgIEsGco",
+    "summary": "El video plantea que el verdadero acceso tecnológico trasciende el consumo y requiere comprender y transformar las herramientas para satisfacer necesidades comunitarias. Aboga por una tecnología con propósito humano que dialogue con la cultura y el territorio de los usuarios.",
+    "keywords": ["Acceso tecnológico", "Innovación social", "Creación tecnológica", "Cultura digital", "Humanismo"],
+    "entities": ["Tecnología", "Cultura", "Territorio"]
+  },
+  {
+    "id": "qjdzmckm-yg",
+    "summary": "Estudiantes de la Universidad de Navarra visitaron Chile para conocer proyectos socioambientales y colaborar con comunidades locales como la Aymara. La experiencia buscó inspirar a futuros científicos mediante un enfoque holístico de las problemáticas ambientales y el impacto de iniciativas comunitarias.",
+    "keywords": ["Ciencias ambientales", "Problemática socioambiental", "Intercambio académico", "Comunidad Aymara", "Centro C+"],
+    "entities": ["Universidad de Navarra", "Chile", "España", "Unión Europea", "Comunidad Aymara", "Centro C+"]
+  },
+  {
+    "id": "FWnAgdQ1b7Q",
+    "summary": "Investigadores del proyecto Anillo OASIS presentan sus tesis sobre tapetes microbianos, hidrogeoquímica y geofísica en el Salar de Maricunga. El trabajo busca entender la relación entre microorganismos y la concentración de litio, además de cuantificar recursos de forma no invasiva.",
+    "keywords": ["Microbiología ambiental", "Salar de Maricunga", "Litio", "Geofísica", "Proyecto OASIS"],
+    "entities": ["Proyecto Anillo OASIS", "Salar de Maricunga", "Laguna del Negro Francisco", "Universidad de la Frontera (Geodel)", "Universidad de Concepción", "Natalia Sáez"]
+  },
+  {
+    "id": "67czJ6qTm7A",
+    "summary": "La línea de socioecología del proyecto OASIS investiga cómo las acciones humanas repercuten en los procesos ecológicos de áreas protegidas. El objetivo central es identificar especies bioindicadoras sensibles a cambios en la calidad y disponibilidad de agua en los salares.",
+    "keywords": ["Socioecología", "Bioindicadores", "Gestión hídrica", "Salares", "Conservación"],
+    "entities": ["Petra Wallem Stein", "Proyecto OASIS", "CONAF", "Parques Nacionales"]
+  },
+  {
+    "id": "LTetMlOHmlA",
+    "summary": "Este simposio reunió a expertos para discutir la agenda nacional de minerales críticos y estratégicos en Chile bajo un enfoque interdisciplinario. Se destacó la importancia de generar políticas públicas y herramientas como visores de datos para un desarrollo minero sostenible.",
+    "keywords": ["Minerales críticos", "Políticas públicas", "Minería", "Desarrollo sostenible", "Simposio"],
+    "entities": ["SEMEC", "SERNAGEOMIN", "SEMAS", "Chile"]
+  },
+  {
+    "id": "-esLAI3zVgM",
+    "summary": "El encuentro abordó la importancia ambiental de los salares y lagunas altoandinas, enfocándose en procesos biogeoquímicos para el uso energético de recursos como el litio. También se discutió el impacto de los microplásticos y la necesidad de vincular la actividad humana con la preservación natural.",
+    "keywords": ["Salares", "Lagunas altoandinas", "Biogeoquímica", "Microplásticos", "Litio"],
+    "entities": ["Proyecto OASIS", "ANID", "Lagunas altoandinas"]
+  },
+  {
+    "id": "gATbO5_7_3Q",
+    "summary": "Maker Camp 2025 permitió a estudiantes de Santiago y Concepción experimentar con prototipado digital aplicado a la medicina y la ingeniería. Los participantes desarrollaron soluciones como tests de COVID-19 lúdicos y teléfonos de emergencia, fomentando el talento tecnológico joven.",
+    "keywords": ["Maker Camp", "Prototipado", "Impresión 3D", "Innovación tecnológica", "Ingeniería"],
+    "entities": ["Facultad de Ingeniería UDD", "Santiago", "Concepción", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "H8rQ9fY4yf4",
+    "summary": "Metarfly es un panel fotoresponsivo bio-inspirado que utiliza principios de kirigami y nitinol para reaccionar a la temperatura sin necesidad de electrónica. Es un sistema de fabricación digital aplicable a paneles solares adaptativos y persianas inteligentes con cero gasto energético.",
+    "keywords": ["Metarfly", "Kirigami", "Nitinol", "Eficiencia energética", "Fabricación digital"],
+    "entities": ["Bruno Grossi", "Facultad de Ingeniería UDD", "Facultad de Diseño UAI", "Nitinol"]
+  },
+  {
+    "id": "cpUIBwf-Yro",
+    "summary": "El Foro Litio 360° propició un encuentro entre la academia, el sector público y privado para abordar los desafíos de la industria del litio en Chile. Se enfatizó la necesidad de colaboración, transparencia de datos y normativas claras para una extracción técnica y socialmente sostenible.",
+    "keywords": ["Foro Litio 360", "Sustentabilidad", "Extracción de litio", "Marco regulatorio", "Colaboración"],
+    "entities": ["Chile", "Foro Litio 360", "Industria del Litio"]
+  }
+]
