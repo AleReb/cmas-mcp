@@ -1,0 +1,9 @@
+pipeline:
+  ingestion:
+    batch_size: 10
+    delay_between_requests: 1.0
+  processing:
+    summarization_enabled: true
+    max_content_length: 2000
+  storage:
+    format: "jsonl"

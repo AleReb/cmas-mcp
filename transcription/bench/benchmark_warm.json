@@ -1,0 +1,29 @@
+{
+  "audio": "D:\\cmas-mcp\\transcription\\input\\sample.ogg",
+  "warm_runs": [
+    {
+      "engine": "openai-whisper",
+      "load_s": 0.559,
+      "transcribe_runs_s": [
+        1.519,
+        1.61,
+        1.713
+      ],
+      "avg_transcribe_s": 1.614,
+      "chars": 73,
+      "ok": true
+    },
+    {
+      "engine": "faster-whisper",
+      "load_s": 2.667,
+      "transcribe_runs_s": [
+        1.967,
+        2.014,
+        2.169
+      ],
+      "avg_transcribe_s": 2.05,
+      "chars": 76,
+      "ok": true
+    }
+  ]
+}

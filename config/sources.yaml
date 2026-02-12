@@ -1,0 +1,7 @@
+sources:
+  youtube:
+    channel_url: "https://www.youtube.com/@direcciondeinnovacion-inge4104"
+    output_file: "data/raw/youtube/videos.jsonl"
+  cmas_web:
+    base_url: "https://cmas.udd.cl/"
+    output_file: "data/raw/cmas_web/pages.jsonl"

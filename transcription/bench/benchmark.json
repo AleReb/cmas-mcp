@@ -1,0 +1,23 @@
+{
+  "audio": "D:\\cmas-mcp\\transcription\\input\\sample.ogg",
+  "runs": [
+    {
+      "engine": "openai-whisper",
+      "model": "base",
+      "load_s": 11.805,
+      "transcribe_s": 3.422,
+      "total_s": 15.227,
+      "chars": 73,
+      "ok": true
+    },
+    {
+      "engine": "faster-whisper",
+      "model": "base/int8/cpu",
+      "load_s": 16.215,
+      "transcribe_s": 2.137,
+      "total_s": 18.352,
+      "chars": 76,
+      "ok": true
+    }
+  ]
+}
