@@ -20,27 +20,33 @@ def clean_vtt(vtt_content):
 raw_path = os.path.join("D:\\cmas-mcp", "data/raw/youtube", "videos.jsonl")
 cap_dir = os.path.join("D:\\cmas-mcp", "data/raw/youtube", "captions")
 
-batch_data = []
-if os.path.exists(raw_path):
-    with open(raw_path, 'r', encoding='utf-8') as f:
-        for i, line in enumerate(f):
-            if i >= 10: break
-            video = json.loads(line)
-            vid_id = video['id']
-            
-            transcript = ""
-            for lang in ['es', 'en']:
-                cap_path = os.path.join(cap_dir, f"{vid_id}.{lang}.vtt")
-                if os.path.exists(cap_path):
-                    with open(cap_path, 'r', encoding='utf-8') as f_cap:
-                        transcript = clean_vtt(f_cap.read())
-                    break
-            
-            batch_data.append({
-                "id": vid_id,
-                "title": video.get("title"),
-                "description": video.get("description"),
-                "transcript": transcript
-            })
+def prepare_batch(offset, limit=20):
+    batch_data = []
+    if os.path.exists(raw_path):
+        with open(raw_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            for line in lines[offset:offset+limit]:
+                video = json.loads(line)
+                vid_id = video['id']
+                
+                transcript = ""
+                for lang in ['es', 'en']:
+                    cap_path = os.path.join(cap_dir, f"{vid_id}.{lang}.vtt")
+                    if os.path.exists(cap_path):
+                        with open(cap_path, 'r', encoding='utf-8') as f_cap:
+                            transcript = clean_vtt(f_cap.read())
+                        break
+                
+                batch_data.append({
+                    "id": vid_id,
+                    "title": video.get("title"),
+                    "description": video.get("description"),
+                    "transcript": transcript
+                })
+    return batch_data
 
-print(json.dumps(batch_data, ensure_ascii=False))
+if __name__ == "__main__":
+    import sys
+    off = int(sys.argv[1]) if len(sys.argv) > 1 else 10
+    limit = int(sys.argv[2]) if len(sys.argv) > 2 else 20
+    print(json.dumps(prepare_batch(off, limit), ensure_ascii=False))
