@@ -13,6 +13,10 @@ def ingest_youtube_full(channel_url, output_dir):
         'extract_flat': True,
         'quiet': True,
         'skip_download': True,
+        'writesubtitles': True,
+        'writeautomaticsub': True,
+        'subtitleslangs': ['es', 'en'],
+        'outtmpl': os.path.join(output_dir, 'captions', '%(id)s.%(ext)s'),
     }
     
     videos_data = []
