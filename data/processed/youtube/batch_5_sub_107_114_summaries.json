@@ -1,0 +1,146 @@
+[
+  {
+    "id": "a3LYB4-xHXc",
+    "summary": "El evento 'Chile Unido frente al Cáncer', organizado por la UDD y la Fundación Vi-Da, presentó resultados de una encuesta de percepción para guiar políticas públicas de salud. Destaca la colaboración entre la academia y la sociedad civil para obtener datos objetivos que mejoren la toma de decisiones clínicas y sociales.",
+    "keywords": [
+      "Cáncer",
+      "Encuesta de Percepción",
+      "Políticas Públicas",
+      "Salud Pública",
+      "Academia"
+    ],
+    "entities": [
+      "Centro de Investigación en Tecnologías para la Sociedad (C+)",
+      "Facultad de Ingeniería UDD",
+      "Fundación Vi-Da",
+      "Centro SEMAS",
+      "Chile"
+    ]
+  },
+  {
+    "id": "waXl_XeVQDM",
+    "summary": "El proyecto MASA investiga la geología y microbiología de los salares andinos, enfocándose en la conservación ante la presión minera por la extracción de litio. Esta colaboración multidisciplinaria entre Chile y Brasil busca establecer líneas base ambientales para proteger ecosistemas frágiles como el Salar de Maricunga.",
+    "keywords": [
+      "Salares Andinos",
+      "Litio",
+      "Microbiología",
+      "Cooperación Internacional",
+      "Conservación"
+    ],
+    "entities": [
+      "Grupo de Ambientes Extremos (C+ UDD)",
+      "ANID",
+      "Instituto Alalamir (Brasil)",
+      "Salar de Maricunga",
+      "Laguna Santa Rosa",
+      "Puna",
+      "Patagonia"
+    ]
+  },
+  {
+    "id": "Ne1cBf06ZqA",
+    "summary": "Este encuentro nacional reunió a expertos internacionales para fortalecer la colaboración en ciencia participativa y monitoreo ambiental preventivo. El evento destacó la importancia de la transdisciplinariedad y la vinculación con socios estratégicos para desarrollar soluciones tecnológicas a escala humana.",
+    "keywords": [
+      "Monitoreo Ambiental",
+      "Sensores",
+      "Ciencia Participativa",
+      "Transdisciplinariedad",
+      "Salud Ambiental"
+    ],
+    "entities": [
+      "C+ de Ingeniería UDD",
+      "Universidad de Edimburgo",
+      "Trent University (Canadá)",
+      "SM ICE Chile (Universidad de Queensland)",
+      "FONDEQUIP Mayor"
+    ]
+  },
+  {
+    "id": "gC01-J1fllY",
+    "summary": "Taller internacional enfocado en los minerales críticos y su impacto ambiental, subrayando la necesidad de una minería sostenible en el contexto del cambio climático. Se discutió la protección de ecosistemas y la colaboración con comunidades indígenas para enfrentar desafíos como la sequía y eventos climáticos extremos.",
+    "keywords": [
+      "Minerales Críticos",
+      "Minería Sostenible",
+      "Cambio Climático",
+      "Comunidades Indígenas",
+      "Medio Ambiente"
+    ],
+    "entities": [
+      "Universidad del Desarrollo",
+      "Universidad de Edimburgo",
+      "Trent University (Canadá)",
+      "Instituto Internacional de Estudios Socioambientales (IIES)",
+      "SM ICE Chile"
+    ]
+  },
+  {
+    "id": "hBacusksPjg",
+    "summary": "Este video detalla las tecnologías utilizadas para monitorear la calidad del aire en Chile, desde estaciones fijas oficiales hasta sensores de bajo costo y redes de ciencia ciudadana. Explica métodos como la cromatografía de gases y la medición de material particulado para entender el impacto de los contaminantes en la salud.",
+    "keywords": [
+      "Monitoreo de Aire",
+      "Material Particulado",
+      "Cromatografía de Gases",
+      "Ciencia Ciudadana",
+      "SINCA"
+    ],
+    "entities": [
+      "FONDECYT Regular (ANID)",
+      "Región Metropolitana",
+      "Coyhaique",
+      "Chile"
+    ]
+  },
+  {
+    "id": "2xOlGDpywLo",
+    "summary": "Análisis sobre el rol social de la ciencia y la importancia de integrar el conocimiento local en la construcción de preguntas de investigación ambiental. Los expertos abogan por romper la 'burbuja académica' y comunicar los hallazgos de manera clara para empoderar a las comunidades frente al cambio climático.",
+    "keywords": [
+      "Rol de la Ciencia",
+      "Conocimiento Local",
+      "Divulgación Científica",
+      "Cambio Climático",
+      "Ciencias Sociales"
+    ],
+    "entities": [
+      "Facultad de Ingeniería UDD",
+      "Patagonia",
+      "Latinoamérica",
+      "Chile"
+    ]
+  },
+  {
+    "id": "vI3glpOmfps",
+    "summary": "Exploración de las diversas fuentes y tipos de contaminantes atmosféricos en Chile, incluyendo material particulado fino (PM2.5) y gases de efecto invernadero. El video resalta cómo la geografía y la meteorología local influyen en la dispersión de contaminantes y afectan de manera diferenciada al norte, centro y sur del país.",
+    "keywords": [
+      "Contaminación Atmosférica",
+      "Material Particulado Fino",
+      "Gases de Efecto Invernadero",
+      "Salud Pública",
+      "Ecosistemas"
+    ],
+    "entities": [
+      "Santiago",
+      "Norte de Chile",
+      "Sur de Chile (quema de leña)",
+      "Chile"
+    ]
+  },
+  {
+    "id": "83Y-hdienAc",
+    "summary": "Este capítulo examina cómo el modelo de desarrollo chileno, impulsado por la minería y la industria, ha generado zonas saturadas de contaminación ambiental. Se destaca la urgencia de transitar hacia prácticas más sostenibles y el papel crucial de la comunidad en la visibilización de conflictos socioambientales.",
+    "keywords": [
+      "Modelo de Desarrollo",
+      "Zonas Saturadas",
+      "Minería de Litio",
+      "Sostenibilidad",
+      "Conflictos Socioambientales"
+    ],
+    "entities": [
+      "Proyecto FONDECYT (ANID)",
+      "Quintero",
+      "Chuquicamata",
+      "Temuco",
+      "Coyhaique",
+      "Alemania"
+    ]
+  }
+]

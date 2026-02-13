@@ -1,0 +1,143 @@
+[
+  {
+    "id": "12-Gu9p1G-k",
+    "summary": "Lanzamiento oficial del Plan de Monitoreo Ambiental Comunitario para Pampa Lagunillas, enfocado en empoderar a la comunidad Aymara frente a los impactos de la minería. El proyecto integra conocimientos técnicos de hidrogeología, flora y fauna con los saberes ancestrales locales para supervisar la recuperación del bofedal tras el cese de operaciones de Minera Cerro Colorado.",
+    "keywords": [
+      "monitoreo comunitario",
+      "bofedal",
+      "hidrogeología",
+      "gobernanza local",
+      "recarga artificial"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Minera Cerro Colorado",
+      "Universidad del Desarrollo (UDD)",
+      "Centro C+",
+      "Comunidad Aymara de Cancosa",
+      "Petra Bem-Haja",
+      "Mili Gutiérrez",
+      "Marita (Botánica)",
+      "Antonio (Gestor local)",
+      "Janet (Gestora local)"
+    ]
+  },
+  {
+    "id": "59WJZRlqAwU",
+    "summary": "Actividades del Centro C+ de la UDD por el Día de la Tierra, incluyendo un mapeo participativo de amenazas ambientales con escolares y un conversatorio sobre el rol de la ciencia en la sociedad. Se destaca la importancia de democratizar la información científica y escuchar los saberes comunitarios para la toma de decisiones territoriales.",
+    "keywords": [
+      "mapeo ambiental",
+      "educación científica",
+      "diálogo comunitario",
+      " threats geográficas",
+      "tecnologías para la sociedad"
+    ],
+    "entities": [
+      "Centro C+ (Ingeniería UDD)",
+      "Macul",
+      "Día de la Tierra",
+      "Chile"
+    ]
+  },
+  {
+    "id": "C7W09xVnSyk",
+    "summary": "Presentación de los resultados de la primera campaña de monitoreo ambiental en Cancosa, detallando hallazgos en flora, fauna e hidrogeología. El equipo técnico explica el uso de instrumentos como piezómetros y sensores de flujo para validar la efectividad de las medidas de mitigación en el bofedal.",
+    "keywords": [
+      "campaña de terreno",
+      "piezometría",
+      "caudal hídrico",
+      "flora altoandina",
+      "instrumentación ambiental"
+    ],
+    "entities": [
+      "Cancosa",
+      "Pampa Lagunillas",
+      "Centro C+",
+      "Milagros Gutiérrez",
+      "Alejandrina (Líder local)"
+    ]
+  },
+  {
+    "id": "Y8mZ9W7u4P4",
+    "summary": "Taller técnico sobre hidrogeología para la comunidad local, explicando el funcionamiento de los acuíferos y la dinámica del agua subterránea en la cuenca de Lagunillas. Se aborda la problemática del secado del bofedal y las diferencias entre la recarga natural y los sistemas artificiales de la minera.",
+    "keywords": [
+      "acuífero",
+      "dinámica hídrica",
+      "agua subterránea",
+      "balance de cuenca",
+      "taller técnico"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Centro C+",
+      "Elizabeth Lwow (Referencia)",
+      "Mili Gutiérrez"
+    ]
+  },
+  {
+    "id": "Pq2N6X8vR2w",
+    "summary": "Explicación de la metodología de monitoreo de fauna silvestre, incluyendo el uso de cámaras trampa y avistamiento con monóculos en el ecosistema altoandino. El objetivo es capacitara los serenos de la comunidad para que realicen censos autónomos de vicuñas y parinas como indicadores de salud ecológica.",
+    "keywords": [
+      "cámaras trampa",
+      "fauna altoandina",
+      "vicuñas",
+      "parinas",
+      "censos poblacionales"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Centro C+",
+      "Petra Bem-Haja",
+      "Monitores Ambientales (Serenos)"
+    ]
+  },
+  {
+    "id": "vX4M1Y9tL0o",
+    "summary": "Conversatorio sobre la gobernanza hídrica y los derechos de agua en el norte de Chile, analizando el impacto histórico del Código de Aguas de 1981 en las comunidades indígenas. Se discute la necesidad de un nuevo modelo de gestión que respe te los usos ancestrales y el equilibrio del ecosistema.",
+    "keywords": [
+      "Código de Aguas",
+      "derechos hídricos",
+      "gobernanza",
+      "pueblos originarios",
+      "gestión ambiental"
+    ],
+    "entities": [
+      "Chile",
+      "Cancosa",
+      "Ministerio del Medio Ambiente (Referencia)"
+    ]
+  },
+  {
+    "id": "kL5S2H3jG6f",
+    "summary": "Demostración práctica de la medición de calidad de agua utilizando equipos multiparámetro en terreno. Se capacita a la comunidad en la toma de datos de pH, conductividad y sólidos disueltos para detectar de forma temprana posibles contaminaciones o cambios en el recurso hídrico.",
+    "keywords": [
+      "multiparámetro",
+      "calidad de agua",
+      "pH y conductividad",
+      "monitoreo preventivo",
+      "capacitación técnica"
+    ],
+    "entities": [
+      "Cancosa",
+      "Centro C+",
+      "Unidad Ambiental Local"
+    ]
+  },
+  {
+    "id": "bN8V4C1xZ9m",
+    "summary": "Documental breve sobre la integración de la tecnología de biodigestores en comunidades agrícolas de mamiña. El proyecto muestra cómo la ciencia aplicada puede resolver problemas locales de residuos y energía, transformando desechos orgánicos en fertilizantes y biogás bajo gestión comunitaria.",
+    "keywords": [
+      "biodigestor",
+      "biogás",
+      "economía circular",
+      "agricultura indígena",
+      "residuos orgánicos"
+    ],
+    "entities": [
+      "Mamiña",
+      "Asociación Agropecuaria Indígena de Mamiña",
+      "Centro C+",
+      "Sebastián (Experto en biodigestión)"
+    ]
+  }
+]

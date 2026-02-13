@@ -1,0 +1,141 @@
+[
+  {
+    "id": "12-Gu9p1G-k",
+    "summary": "Lanzamiento oficial del Plan de Monitoreo Ambiental Comunitario para Pampa Lagunillas (PMACPL) en colaboración con la comunidad aymara de Cancosa. El proyecto busca integrar el conocimiento científico con los saberes ancestrales para supervisar el impacto de la minera Cerro Colorado en el ecosistema local.",
+    "keywords": [
+      "Monitoreo ambiental",
+      "Bofedal",
+      "Hidrogeología",
+      "Conocimiento ancestral",
+      "Gestión ambiental"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Comunidad de Cancosa",
+      "Minera Cerro Colorado",
+      "Universidad del Desarrollo (UDD)",
+      "Centro C+",
+      "Petra Bem"
+    ]
+  },
+  {
+    "id": "MtANLdsK9bA",
+    "summary": "Taller técnico sobre hidrogeología donde se explica el funcionamiento de la cuenca endorreica de Pampa Lagunillas y el impacto de la extracción hídrica. Se detallan las variables del balance hídrico y la importancia de monitorear pozos y escorrentías para asegurar la recuperación del bofedal.",
+    "keywords": [
+      "Balance hídrico",
+      "Cuenca endorreica",
+      "Nivel piezométrico",
+      "Acuífero",
+      "Recarga artificial"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Cancosa",
+      "Milagros Gutiérrez",
+      "Elizabeth Law",
+      "Minera Cerro Colorado"
+    ]
+  },
+  {
+    "id": "_s0pH4XsPaQ",
+    "summary": "Investigación del Centro C+ de la UDD que detectó altas concentraciones de contaminantes orgánicos persistentes (PAHs) en las bases Prat y Yelcho en la Antártica. El estudio analiza si el origen es por actividad antropogénica local o por transporte atmosférico a larga distancia.",
+    "keywords": [
+      "Contaminantes Orgánicos Persistentes",
+      "PAHs",
+      "Antártica",
+      "Monitoreo atmosférico",
+      "Impacto antropogénico"
+    ],
+    "entities": [
+      "Centro C+",
+      "Universidad del Desarrollo",
+      "Base Prat",
+      "Base Yelcho",
+      "Antártica"
+    ]
+  },
+  {
+    "id": "Giqs9dARqHs",
+    "summary": "Jornada de integración tecnológica entre el Maker Campus de la UDD y el Liceo Amanda Labarca para aplicar herramientas digitales en el aula. Estudiantes aplicaron inteligencia artificial y modelado 3D en proyectos de química y electrónica para potenciar el aprendizaje práctico.",
+    "keywords": [
+      "Integración tecnológica",
+      "Inteligencia artificial",
+      "Modelado 3D",
+      "Tinkercat",
+      "Innovación educativa"
+    ],
+    "entities": [
+      "Maker Campus",
+      "Universidad del Desarrollo",
+      "Liceo Amanda Labarca",
+      "Renata"
+    ]
+  },
+  {
+    "id": "YOvI5cUi2jk",
+    "summary": "Charla de la Dra. Anita Parbhakar-Fox sobre la recuperación de metales críticos a partir de desechos mineros para fomentar la economía circular. La investigación destaca cómo la reutilización de materiales es clave para la transición energética global y la reducción de la huella minera.",
+    "keywords": [
+      "Residuos mineros",
+      "Metales críticos",
+      "Economía circular",
+      "Transición energética",
+      "Sustentabilidad"
+    ],
+    "entities": [
+      "Universidad de Queensland",
+      "Anita Parbhakar-Fox",
+      "Universidad del Desarrollo",
+      "Sustainable Minerals Institute"
+    ]
+  },
+  {
+    "id": "1yQ2NapKw8Y",
+    "summary": "Presentación de los metamateriales mecánicos desarrollados en el Centro C+, los cuales poseen propiedades estructurales únicas como coeficientes de Poisson negativos. Estos materiales inteligentes tienen aplicaciones potenciales en robótica blanda y nuevas tecnologías industriales.",
+    "keywords": [
+      "Metamateriales mecánicos",
+      "Robótica blanda",
+      "Coeficiente de Poisson",
+      "Diseño estructural",
+      "Materiales inteligentes"
+    ],
+    "entities": [
+      "Centro C+",
+      "Facultad de Ingeniería UDD",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "VTcg-ePu7KY",
+    "summary": "Conversatorio de Inger Andersen, directora del PNUMA, sobre la triple crisis ambiental de cambio climático, pérdida de biodiversidad y contaminación. Se subraya la importancia de la transición energética justa y el respeto a los derechos de las comunidades locales en proyectos extractivos.",
+    "keywords": [
+      "Triple crisis ambiental",
+      "Cambio climático",
+      "Biodiversidad",
+      "Transición energética",
+      "Minería de litio"
+    ],
+    "entities": [
+      "PNUMA (UNEP)",
+      "Inger Andersen",
+      "Universidad del Desarrollo",
+      "Naciones Unidas"
+    ]
+  },
+  {
+    "id": "59WJZRlqAwU",
+    "summary": "Actividades del Centro C+ por el Día de la Tierra que incluyeron un mapeo participativo de amenazas ambientales en Chile y un foro sobre comunicación científica. Se enfatizó la necesidad de humildad en la ciencia y la escucha activa de los saberes comunitarios.",
+    "keywords": [
+      "Día de la Tierra",
+      "Comunicación científica",
+      "Amenazas ambientales",
+      "Mapeo participativo",
+      "Diálogo social"
+    ],
+    "entities": [
+      "Centro C+",
+      "Universidad del Desarrollo",
+      "Macul",
+      "Chile"
+    ]
+  }
+]

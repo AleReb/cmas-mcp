@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fYXODbBf7zY",
+    "summary": "El Encuentro RedBiolac 2024 reunió a expertos en digestión anaerobia de toda Latinoamérica para discutir avances en sistemas de pequeña escala. El evento buscó fomentar la colaboración entre la academia, empresas y usuarios para masificar tecnologías de biogestión técnica y económicamente factibles.",
+    "keywords": ["Digestión anaerobia", "Biogestión", "Agricultura regenerativa", "Sustentabilidad"],
+    "entities": ["RedBiolac", "Chile", "Latinoamérica"]
+  },
+  {
+    "id": "o6ThYEcHVh8",
+    "summary": "Docentes del Liceo Amanda Labarca participaron en una capacitación tecnológica en la UDD para explorar herramientas de Inteligencia Artificial, realidad aumentada y fabricación digital. El objetivo es que los profesores adquieran competencias prácticas en impresión 3D para innovar en sus procesos de enseñanza.",
+    "keywords": ["Inteligencia Artificial", "Realidad Aumentada", "Impresión 3D", "Educación STEAM"],
+    "entities": ["Liceo Amanda Labarca", "Maker Campus UDD", "Facultad de Ingeniería"]
+  },
+  {
+    "id": "nkE-p28lfWk",
+    "summary": "La octava versión del Foro del Litio abordó los desafíos de sustentabilidad y la importancia de la licencia social en la explotación minera en Chile. Se destacó la necesidad de diálogos tempranos con comunidades indígenas y el avance hacia asociaciones público-privadas para el desarrollo tecnológico del sector.",
+    "keywords": ["Litio", "Sustentabilidad", "Consulta indígena", "Asociación público-privada"],
+    "entities": ["Centro de Investigación en Tecnologías para la Sociedad (C+)", "ENAMI", "Chile"]
+  },
+  {
+    "id": "4YvIt0unMAw",
+    "summary": "Este video educativo explica la gestión de residuos en Chile, diferenciando entre materiales orgánicos e inorgánicos y criticando la dependencia actual de los rellenos sanitarios. Se promueve la valorización de residuos mediante el compostaje y la Ley REP para reducir el impacto ambiental.",
+    "keywords": ["Gestión de residuos", "Ley REP", "Compostaje", "Valorización energética"],
+    "entities": ["Grupo de Diagnósticos Modulares C+", "Chile", "Estrategia Nacional de Residuos Orgánicos"]
+  },
+  {
+    "id": "ZtxK_mj2JdA",
+    "summary": "Presentación del Diplomado en Aprendizaje Maker con enfoque STEAM, diseñado para integrar metodologías innovadoras y herramientas tecnológicas en el aula. El programa cuenta con la participación de expertos nacionales e internacionales para formar a docentes en la cultura hacedora.",
+    "keywords": ["Enfoque STEAM", "Movimiento Maker", "Metodologías de aprendizaje", "Educación"],
+    "entities": ["Facultad de Educación UDD", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "0gmA5LRy5HM",
+    "summary": "Anuncio de la nueva temporada del programa televisivo 'Neurópolis', conducido por un investigador del Centro C+. El espacio busca explorar el funcionamiento del cerebro y la percepción de la realidad de manera lúdica y cercana para el público general.",
+    "keywords": ["Neurociencia", "Divulgación científica", "Percepción", "Creatividad"],
+    "entities": ["Centro C+", "NTV", "TVN", "Puerto Visual"]
+  },
+  {
+    "id": "6Y6_8xNa3N0",
+    "summary": "El Proyecto Kuskalla implementó micro-biodigestores y sistemas de monitoreo hídrico en comunidades indígenas del norte de Chile. La iniciativa utiliza metodología de codiseño para producir biofertilizantes y gestionar el agua de riego de manera eficiente en entornos de escasez.",
+    "keywords": ["Micro-biodigestor", "Monitoreo hídrico", "Codiseño", "Bioinsumos"],
+    "entities": ["Comunidad de Macaya", "Comunidad agropecuaria indígena", "Santiago"]
+  },
+  {
+    "id": "Qtu4XwTNz9w",
+    "summary": "El Grupo de Nuevos Materiales del C+ aplica tecnologías de manufactura digital para resolver desafíos técnicos en la animación Stop Motion. Mediante el uso de gemelos digitales e impresión en resina, optimizan la creación de esqueletos y marionetas complejas para producciones cinematográficas.",
+    "keywords": ["Manufactura digital", "Stop Motion", "Impresión en resina", "Gemelo digital"],
+    "entities": ["Grupo de Nuevos Materiales", "Centro C+", "UDD"]
+  },
+  {
+    "id": "5DUBSSH8wFg",
+    "summary": "Estudiantes de séptimo básico del Liceo Amanda Labarca participaron en un taller de modelado 3D para visualizar microorganismos y virus. La intervención de Maker Campus permitió a los alumnos y profesores experimentar con herramientas digitales para transformar el currículum escolar tradicional.",
+    "keywords": ["Modelado 3D", "Microbiología", "Intervención educativa", "Diseño digital"],
+    "entities": ["Liceo Amanda Labarca", "Maker Campus UDD"]
+  },
+  {
+    "id": "-JossB3lLFw",
+    "summary": "Investigadores del C+ desarrollan un plan de monitoreo ambiental comunitario a largo plazo con la comunidad Aymara de Cancosa en Tarapacá. El proyecto busca capacitar a monitores locales en limnología y biodiversidad para defender su territorio frente a la degradación hídrica.",
+    "keywords": ["Monitoreo comunitario", "Saberes ancestrales", "Hidrogeología", "Bofedales"],
+    "entities": ["Comunidad Aymara de Cancosa", "Región de Tarapacá", "Grupo de Ambientes Extremos C+", "Pica"]
+  },
+  {
+    "id": "0lGOIsStp7Y",
+    "summary": "La Facultad de Ingeniería y CILED recibieron a estudiantes y docentes de diversas regiones de Chile para una jornada de inmersión tecnológica. La actividad se centró en descentralizar el conocimiento y fomentar la creatividad mediante el uso de herramientas aplicables a la realidad escolar local.",
+    "keywords": ["Descentralización", "Transferencia tecnológica", "Creatividad", "Educación"],
+    "entities": ["CILED", "Maker Campus", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "CRO8nRe-aUM",
+    "summary": "Ella Sierra Brown, estudiante de Ingeniería Biomédica de Nueva York, realizó una pasantía en el Centro C+ trabajando en el proyecto 'Alli'. Este proyecto consiste en un microscopio holográfico digital diseñado para observar células vivas con alta precisión.",
+    "keywords": ["Ingeniería Biomédica", "Microscopía holográfica", "Investigación aplicada", "Células vivas"],
+    "entities": ["Ella Sierra Brown", "Instituto Politécnico Rensselaer", "Centro C+", "Chile"]
+  },
+  {
+    "id": "lh_cGxnzCCM",
+    "summary": "Más de 200 estudiantes de enseñanza media participaron en el Maker Camp 2024, donde aprendieron a fabricar sus propios dispositivos de comunicación. El campamento integró conocimientos de electrónica, programación y diseño 3D para potenciar el pensamiento computacional.",
+    "keywords": ["Pensamiento computacional", "Electrónica", "Diseño 3D", "Prototipado"],
+    "entities": ["Maker Camp 2024", "Sede Santiago", "Sede Concepción", "UDD"]
+  },
+  {
+    "id": "EVaCMLZf-bs",
+    "summary": "La Feria de Ciencias y Tecnología 2024 presentó proyectos estudiantiles enfocados en resolver problemas de salud, seguridad y sustentabilidad urbana. Entre las innovaciones destacaron detectores de humo inteligentes y plataformas de voluntariado potenciadas con Inteligencia Artificial.",
+    "keywords": ["Aprendizaje experiencial", "Inteligencia Artificial", "Sensores", "Innovación social"],
+    "entities": ["Facultad de Ingeniería UDD", "Feria de Ciencias y Tecnología"]
+  },
+  {
+    "id": "nhTsJLVN6Zg",
+    "summary": "La organización Wheel The World realizó una charla en la UDD sobre la importancia de la accesibilidad y el deporte inclusivo. La colaboración con el Centro C+ busca desarrollar equipamiento tecnológico adaptado para mejorar la calidad de vida y el acceso al turismo de personas con discapacidad.",
+    "keywords": ["Accesibilidad", "Turismo adaptado", "Inclusión", "Diseño universal"],
+    "entities": ["Wheel The World", "Columbia", "Centro C+", "UDD"]
+  }
+]

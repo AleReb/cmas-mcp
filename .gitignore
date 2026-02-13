@@ -2,7 +2,9 @@
 data/raw/youtube/captions/
 data/raw/youtube/*.jsonl
 data/raw/cmas_web/
-data/processed/youtube/batch_*.json
+# Only ignore raw/temp batches, allow summaries
+data/processed/youtube/batch_*_raw.json
+# data/processed/youtube/batch_*.json  <-- removed this broad ignore
 
 # Env
 .env

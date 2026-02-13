@@ -1,0 +1,123 @@
+[
+  {
+    "id": "FH-wgdIrL_k",
+    "summary": "El video analiza el modelo extractivista en Chile y su impacto en la calidad de vida de las comunidades locales y el medio ambiente. Propone a la ciencia y al activismo ecofeminista como herramientas clave para buscar soluciones sostenibles y justicia ambiental.",
+    "keywords": [
+      "extractivismo",
+      "justicia ambiental",
+      "contaminación atmosférica",
+      "FONDECYT",
+      "ecofeminismo"
+    ],
+    "entities": [
+      "Chile",
+      "FONDECYT",
+      "Agencia Nacional de Investigación y Desarrollo",
+      "Red Ecofeminista",
+      "ONG Energía Colectiva"
+    ]
+  },
+  {
+    "id": "dbSYnVoMWyY",
+    "summary": "Presentación de la Dirección de Innovación de la Facultad de Ingeniería UDD, destacando sus pilares en I+D aplicado y tecnología con impacto social. Se mencionan iniciativas como el Centro C+, Maker Campus e Impacto UDD para resolver desafíos sociales y promover la sostenibilidad.",
+    "keywords": [
+      "innovación tecnológica",
+      "I+D aplicado",
+      "pensamiento computacional",
+      "ingeniería social",
+      "desarrollo sostenible"
+    ],
+    "entities": [
+      "Dirección de Innovación UDD",
+      "Facultad de Ingeniería UDD",
+      "Centro C+",
+      "Maker Campus",
+      "Nodos Locales Tecnológicos"
+    ]
+  },
+  {
+    "id": "Dl1ktJEF4l0",
+    "summary": "Documenta una instancia de trabajo en San Carlos, Costa Rica, sobre la importancia del monitoreo ambiental comunitario en reservas de biósfera. Investigadores internacionales y locales colaboran en la reconstrucción histórica de la contaminación por mercurio mediante técnicas dendroquímicas.",
+    "keywords": [
+      "monitoreo comunitario",
+      "ciencia ciudadana",
+      "dendroquímica",
+      "mercurio",
+      "reservas de biósfera"
+    ],
+    "entities": [
+      "Zoe Fleming",
+      "Universidad del Desarrollo",
+      "San Carlos, Costa Rica",
+      "Universidad de Heidelberg",
+      "UNESCO"
+    ]
+  },
+  {
+    "id": "7igs_A3J0do",
+    "summary": "Resumen de la participación del Centro C+ en el Summit Chile 2023, enfocado en la sostenibilidad y la innovación para pymes ante la crisis climática. Se destaca la necesidad de fortalecer el vínculo entre la academia, la investigación y soluciones territoriales con impacto internacional.",
+    "keywords": [
+      "sostenibilidad",
+      "pymes",
+      "crisis climática",
+      "innovación",
+      "vinculación académica"
+    ],
+    "entities": [
+      "Centro C+",
+      "Summit Chile 2023",
+      "Red de Innovación e Impacto de Latinoamérica",
+      "Chile"
+    ]
+  },
+  {
+    "id": "YeHYsOoyBGg",
+    "summary": "Actividad conmemorativa del Día Internacional del Aire Limpio donde se instalaron sensores de bajo costo en escuelas de Santiago para medir la calidad del aire. Los estudiantes participaron activamente monitoreando filtros y niveles de contaminación para comparar la visibilidad del cielo.",
+    "keywords": [
+      "calidad del aire",
+      "sensores de bajo costo",
+      "material particulado",
+      "educación ambiental",
+      "monitoreo ciudadano"
+    ],
+    "entities": [
+      "Naciones Unidas",
+      "Centro C+",
+      "Maker Campus",
+      "Las Condes, Santiago",
+      "Santiago, Chile"
+    ]
+  },
+  {
+    "id": "ul-AOVPuY5o",
+    "summary": "Muestra los avances de estudiantes de ingeniería en la Feria de Ciencias y Tecnología 2023, presentando proyectos enfocados en sustentabilidad y problemas cotidianos. La instancia fomenta el aprendizaje con impacto y el feedback entre pares para mejorar soluciones tecnológicas.",
+    "keywords": [
+      "ingeniería aplicada",
+      "sustentabilidad",
+      "feria de ciencias",
+      "tecnología",
+      "innovación estudiantil"
+    ],
+    "entities": [
+      "Facultad de Ingeniería UDD",
+      "Feria de Ciencias y Tecnología 2023",
+      "Chile"
+    ]
+  },
+  {
+    "id": "gf1s-NjaWZM",
+    "summary": "Conversatorio entre el Centro C+ y la organización Wheel the World sobre turismo accesible para personas con discapacidad. El objetivo es identificar necesidades de equipamiento y generar alianzas para mejorar la inclusión en actividades recreativas y de turismo extremo.",
+    "keywords": [
+      "turismo accesible",
+      "discapacidad",
+      "inclusión",
+      "equipamiento técnico",
+      "colaboración institucional"
+    ],
+    "entities": [
+      "Wheel the World",
+      "Centro C+",
+      "Extreme Access"
+    ]
+  }
+]

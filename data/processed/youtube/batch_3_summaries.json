@@ -1,0 +1,315 @@
+[
+  {
+    "id": "y3Mt80VqTI4",
+    "summary": "María Emilia Matosas, diseñadora y colaboradora del Centro C+, lidera un proyecto para desarrollar empaques biodegradables utilizando micelio de hongos para la industria agrícola. Su trabajo se enfoca en la innovación de materiales y el diseño de prototipos funcionales que integran biomateriales y electrónica.",
+    "keywords": [
+      "Biomateriales",
+      "Micelio de hongos",
+      "Empaques biodegradables",
+      "Cultura maker"
+    ],
+    "entities": [
+      "María Emilia Matosas",
+      "Centro C+",
+      "Maker Campus",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "am_53XZOVds",
+    "summary": "Jornada de planificación para el Encuentro por la Biodiversidad 2025 (ExB) que busca vincular el turismo, la ciencia y la conservación. El evento destaca el uso de la tecnología para el monitoreo de ecosistemas frágiles y la promoción de una gobernanza ambiental participativa.",
+    "keywords": [
+      "Biodiversidad",
+      "Turismo sostenible",
+      "Conservación",
+      "Gobernanza ambiental"
+    ],
+    "entities": [
+      "Centro C+",
+      "Ladera Sur",
+      "Travolution",
+      "ExB 2025",
+      "Chile"
+    ]
+  },
+  {
+    "id": "jpBWohqOqSU",
+    "summary": "El ingeniero Adrean Torres promueve la robótica educativa en el Maker Campus mediante la metodología de 'aprender haciendo'. Su labor consiste en guiar a estudiantes en la creación de prototipos tecnológicos para resolver problemas locales de forma práctica.",
+    "keywords": [
+      "Robótica educativa",
+      "Prototipado",
+      "Educación técnica",
+      "Ingeniería aplicada"
+    ],
+    "entities": [
+      "Adrean Torres",
+      "Maker Campus",
+      "Universidad Nacional de Colombia",
+      "Facultad de Ingeniería UDD"
+    ]
+  },
+  {
+    "id": "H2e7BRX7Kno",
+    "summary": "Eduardo Gómez Restrepo expone sobre la regeneración territorial y la iniciativa 'Natura Tech LAC' para potenciar bionegocios en Latinoamérica. La charla resalta el uso de créditos de biodiversidad y la integración del conocimiento ancestral con la tecnología para la resiliencia.",
+    "keywords": [
+      "Regeneración territorial",
+      "Natura Tech LAC",
+      "Créditos de biodiversidad",
+      "Bionegocios"
+    ],
+    "entities": [
+      "Eduardo Gómez Restrepo",
+      "Natura Tech LAC",
+      "América Latina",
+      "ExB 2025"
+    ]
+  },
+  {
+    "id": "Xm16m_w-hu4",
+    "summary": "Mauricio Fabri analiza los desafíos de integrar la variable ambiental en la planificación territorial y el rol clave de los gobiernos regionales en la conservación. Destaca que el desarrollo económico debe fundamentarse en la resiliencia de los ecosistemas frente a la crisis climática.",
+    "keywords": [
+      "Planificación territorial",
+      "Políticas públicas",
+      "Desarrollo regional",
+      "Resiliencia climática"
+    ],
+    "entities": [
+      "Mauricio Fabri",
+      "Chile",
+      "ExB 2025"
+    ]
+  },
+  {
+    "id": "wFlWadUdms8",
+    "summary": "Este panel del ExB 2025 discute cómo el turismo científico y comunitario puede financiar la protección de especies y la restauración de hábitats. Se resalta la necesidad de infraestructura sustentable y la importancia de que los beneficios económicos lleguen a las comunidades custodias.",
+    "keywords": [
+      "Ecoturismo",
+      "Turismo científico",
+      "Restauración de hábitats",
+      "Infraestructura sustentable"
+    ],
+    "entities": [
+      "ExB 2025",
+      "Chile"
+    ]
+  },
+  {
+    "id": "a5cr673ePGU",
+    "summary": "Expertos en economía ambiental proponen internalizar el valor del capital natural en los balances corporativos para gestionar riesgos sistémicos. Se discute el rol del Comité de Capital Natural en Chile para fomentar incentivos que transformen la mitigación de daños en un impacto positivo real.",
+    "keywords": [
+      "Capital natural",
+      "Economía ambiental",
+      "Sustentabilidad corporativa",
+      "Políticas públicas"
+    ],
+    "entities": [
+      "Comité de Capital Natural",
+      "Chile",
+      "ExB 2025"
+    ]
+  },
+  {
+    "id": "3iQuQal_rEE",
+    "summary": "Allan Valverde presenta una visión global sobre la gestión participativa de áreas protegidas y el ecoturismo como motor de desarrollo local. Enfatiza la necesidad de formación científica para guardaparques y modelos de financiamiento innovadores para asegurar la resiliencia institucional.",
+    "keywords": [
+      "Áreas protegidas",
+      "Guardaparques",
+      "Financiamiento para conservación",
+      "Gestión comunitaria"
+    ],
+    "entities": [
+      "Allan Valverde",
+      "ExB 2025",
+      "Áreas Protegidas"
+    ]
+  },
+  {
+    "id": "ZB_Jzgp7MAw",
+    "summary": "Inicio del Encuentro por la Biodiversidad 2025 con énfasis en Chile como laboratorio natural único. Las autoridades de la UDD invitan a la colaboración transdisciplinaria para enfrentar la crisis climática mediante la integración de ciencia, tecnología y saberes locales.",
+    "keywords": [
+      "Laboratorio natural",
+      "Biodiversidad Chile",
+      "Colaboración transdisciplinaria",
+      "Sustentabilidad"
+    ],
+    "entities": [
+      "Universidad del Desarrollo",
+      "ExB 2025",
+      "Chile"
+    ]
+  },
+  {
+    "id": "uA8LgC_ZKsA",
+    "summary": "Barbara Saavedra define la biodiversidad como una red vital de relaciones genéticas y ecosistémicas de la cual dependemos totalmente. Propone el paradigma de 'naturaleza positiva' para revertir la pérdida biológica al 2030 y alcanzar la recuperación plena al 2050.",
+    "keywords": [
+      "Naturaleza positiva",
+      "Servicios ecosistémicos",
+      "Límites planetarios",
+      "Conservación biológica"
+    ],
+    "entities": [
+      "Barbara Saavedra",
+      "ExB 2025",
+      "Chile"
+    ]
+  },
+  {
+    "id": "6ESf89G4meM",
+    "summary": "El investigador Bruno Grossi presenta avances en biofabricación utilizando celulosa bacteriana para crear dispositivos médicos biocompatibles y sostenibles. La investigación busca unir la biología y la ingeniería para desarrollar metamateriales inteligentes que mejoren la calidad de vida.",
+    "keywords": [
+      "Biofabricación",
+      "Celulosa bacteriana",
+      "Dispositivos médicos",
+      "Metamateriales"
+    ],
+    "entities": [
+      "Bruno Grossi",
+      "Centro C+",
+      "Facultad de Ingeniería UDD"
+    ]
+  },
+  {
+    "id": "5eC_u1XsWgI",
+    "summary": "Alesandro, estudiante de la UDD, relata su experiencia en el desarrollo del proyecto 'Tamoco', que consiste en dispositivos portátiles para detectar agentes químicos nocivos. El proyecto está enfocado en proteger la salud de trabajadores agrícolas expuestos a agroquímicos a través de la investigación aplicada.",
+    "keywords": [
+      "Diagnósticos modulares",
+      "Salud laboral",
+      "Agroquímicos",
+      "Innovación estudiantil"
+    ],
+    "entities": [
+      "Alesandro",
+      "Centro C+",
+      "Proyecto Tamoco",
+      "Sector agrícola"
+    ]
+  },
+  {
+    "id": "nSuIfqAhTzw",
+    "summary": "El proyecto 'Sidex' presenta un sistema de asiento de fibra de carbono ajustable para deportistas de alto rendimiento con movilidad reducida. Esta innovación del grupo Extreme Access busca mejorar la eficiencia y seguridad en deportes acuáticos extremos, fomentando la inclusión social.",
+    "keywords": [
+      "Deporte adaptado",
+      "Inclusión social",
+      "Fibra de carbono",
+      "Diseño ergonómico"
+    ],
+    "entities": [
+      "Proyecto Sidex",
+      "Centro C+",
+      "Extreme Access",
+      "Para-canotaje"
+    ]
+  },
+  {
+    "id": "BrfTh9UtVQs",
+    "summary": "Se presenta el rediseño del HIRI, un sensor portátil de bajo costo para el monitoreo de particulado fino (PM2.5 y PM10) en tiempo real. El dispositivo empodera a los ciudadanos mediante una aplicación móvil para generar datos que informen políticas públicas de salud ambiental.",
+    "keywords": [
+      "Calidad del aire",
+      "Ciencia ciudadana",
+      "Sensores de bajo costo",
+      "Democratización de datos"
+    ],
+    "entities": [
+      "HIRI",
+      "Centro C+",
+      "Chile"
+    ]
+  },
+  {
+    "id": "xxzraE4jWBg",
+    "summary": "Abraham Retamal, exalumno UDD, trabaja en la fabricación digital de prototipos para resolver problemas locales en Concepción. Sus proyectos incluyen desde sensores ambientales hasta dispositivos médicos, demostrando el impacto tangible de la tecnología en la sociedad.",
+    "keywords": [
+      "Fabricación digital",
+      "Impacto social",
+      "Prototipado rápido",
+      "Ingeniería regional"
+    ],
+    "entities": [
+      "Abraham Retamal",
+      "Centro C+",
+      "Concepción",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "sqz60TXnJJ4",
+    "summary": "Karina, estudiante de ingeniería, colabora en el Centro C+ Concepción en proyectos de electrónica y programación con Arduino y ESP32. Su labor destaca la importancia de la colaboración interdisciplinaria para desarrollar soluciones tecnológicas inteligentes y funcionales con impacto real.",
+    "keywords": [
+      "Electrónica",
+      "Programación",
+      "Interdisciplina",
+      "Arduino"
+    ],
+    "entities": [
+      "Karina",
+      "Centro C+",
+      "Concepción",
+      "ESP32"
+    ]
+  },
+  {
+    "id": "0Cghsrzkr8g",
+    "summary": "Cierre del proyecto Fondecyt de la Dra. Zoe Fleming sobre la evaluación de la calidad del aire en Chile mediante sensores de bajo costo. La investigación validó el uso de estos dispositivos en climas extremos como la Antártica y subrayó la importancia de la comunicación científica para la salud pública.",
+    "keywords": [
+      "Calidad del aire",
+      "Sensores remotos",
+      "Salud ambiental",
+      "Antártica"
+    ],
+    "entities": [
+      "Zoe Fleming",
+      "Centro C+",
+      "Fondecyt",
+      "Chile"
+    ]
+  },
+  {
+    "id": "hruGPDIhVzs",
+    "summary": "El Maker Camp 2025 reunió a estudiantes para prototipar biorreactores inteligentes, integrando biología y programación. Los jóvenes trabajaron en laboratorios de fabricación digital para desarrollar soluciones sostenibles que aborden problemáticas ambientales reales.",
+    "keywords": [
+      "Biorreactores",
+      "Biomédica",
+      "Educación maker",
+      "Soluciones sostenibles"
+    ],
+    "entities": [
+      "Maker Camp 2025",
+      "Eco-Coders",
+      "UDD",
+      "Santiago",
+      "Concepción"
+    ]
+  },
+  {
+    "id": "aClMc8bC9s8",
+    "summary": "Feria de Ciencia y Tecnología en Concepción donde estudiantes presentaron proyectos como 'Alerta Más', una plataforma para la gestión de desastres naturales. Los prototipos buscan dar soluciones locales con impacto social en áreas como salud de adultos mayores y monitoreo ambiental.",
+    "keywords": [
+      "Desastres naturales",
+      "Gestión de emergencias",
+      "Innovación regional",
+      "Aprendizaje basado en proyectos"
+    ],
+    "entities": [
+      "Feria de Ciencias y Tecnología",
+      "Concepción",
+      "Proyecto Alerta Más",
+      "UDD"
+    ]
+  },
+  {
+    "id": "uEYsVctzpH4",
+    "summary": "Encuentro en Cancosa para el codiseño de un plan de monitoreo ambiental comunitario en Pampa Lagunillas. Investigadores y comuneros integran ciencia y saberes ancestrales Aymara para supervisar la salud del ecosistema y fortalecer la gobernanza territorial frente a la minería.",
+    "keywords": [
+      "Monitoreo comunitario",
+      "Gobernanza Aymara",
+      "Pampa Lagunillas",
+      "Saberes locales"
+    ],
+    "entities": [
+      "Comunidad de Cancosa",
+      "Centro C+",
+      "Pampa Lagunillas",
+      "Proyecto Cancosa"
+    ]
+  }
+]

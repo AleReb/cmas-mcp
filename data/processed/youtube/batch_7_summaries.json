@@ -1,0 +1,122 @@
+[
+  {
+    "id": "eYqnqBUa4Eg",
+    "summary": "Octava versión del Maker Camp orientada a jóvenes escolares para resolver retos de cambio climático mediante Internet de las Cosas (IoT) y fabricación digital. Se destaca el desarrollo de prototipos funcionales como sensores de ahorro energético basados en hardware abierto.",
+    "keywords": ["Internet de las Cosas", "Arduino", "Fabricación Digital", "Cambio Climático"],
+    "entities": ["Maker Camp", "Arduino"]
+  },
+  {
+    "id": "2NhTbkNYFCk",
+    "summary": "Ceremonia de cierre de un fondo FIC que permitió la creación de un laboratorio tecnológico para la competitividad en el sector agrícola. El proyecto enfatiza el co-diseño de soluciones tecnológicas con pequeños y medianos empresarios para reducir brechas de innovación.",
+    "keywords": ["FIC", "Co-diseño", "Sector Agrícola", "Transferencia Tecnológica"],
+    "entities": ["Gobierno Regional", "Laboratorio Tecnológico para la Competitividad"]
+  },
+  {
+    "id": "xBmdbEZZorQ",
+    "summary": "Inauguración de un espacio de fabricación digital en el Colegio Las Condes en alianza con la Universidad del Desarrollo. La iniciativa busca integrar la tecnología en el currículo escolar y motivar vocaciones científicas desde temprana edad.",
+    "keywords": ["Maker Space", "Educación STEM", "Políticas Públicas", "Innovación Educativa"],
+    "entities": ["Universidad del Desarrollo", "Municipalidad de Las Condes", "Colegio Las Condes", "Colegio Leonardo Da Vinci"]
+  },
+  {
+    "id": "MU4kLSGMmOE",
+    "summary": "Taller práctico para estudiantes enfocado en el ensamblaje y programación de placas Arduino para la creación de videojuegos. La actividad promueve el pensamiento computacional y la comprensión de la electrónica desde los componentes más básicos.",
+    "keywords": ["Arduino", "Pensamiento Computacional", "Electrónica", "Programación de Videojuegos"],
+    "entities": ["Arduino"]
+  },
+  {
+    "id": "IoIc2jefBVE",
+    "summary": "Presentación de resultados del Laboratorio Tecnológico para la Competitividad, destacando prototipos para la agricultura como caudalímetros y simuladores de realidad virtual. El proyecto vincula la investigación académica con las necesidades prácticas de pymes en la Región del Biobío.",
+    "keywords": ["Realidad Virtual", "Caudalímetro", "I+D", "Pymes Agrícolas"],
+    "entities": ["Laboratorio Tecnológico para la Competitividad", "Región del Biobío", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "0Q15zaqBaxI",
+    "summary": "Primer encuentro nacional dedicado a la salud ambiental y el monitoreo mediante sensores en Chile. Se discuten estrategias para mitigar la contaminación en diversas matrices como aire, agua y suelos, subrayando la colaboración entre científicos y comunidades locales.",
+    "keywords": ["Salud Ambiental", "Sensores", "Monitoreo Participativo", "Contaminación"],
+    "entities": ["Facultad de Medicina UDD", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "QgFkIR3e9pA",
+    "summary": "Exposición de prototipos finales de estudiantes que integran electrónica, programación con Arduino y modelado 3D para resolver problemáticas reales. Se presentan soluciones innovadoras como la automatización de terapias kinesiológicas mediante juegos tecnológicos.",
+    "keywords": ["Modelado 3D", "Arduino", "Kinesiología", "Prototipado"],
+    "entities": ["Arduino"]
+  },
+  {
+    "id": "B1q8nfEprQY",
+    "summary": "Entrevista al experto David Cavallo sobre el concepto de 'creación consciente' aplicada a la educación tecnológica. Propone un modelo de aprendizaje profundo donde los estudiantes comprenden la física y matemáticas subyacentes mientras diseñan objetos computacionales.",
+    "keywords": ["Creación Consciente", "Teoría del Aprendizaje", "Equidad Educativa", "Educación Maker"],
+    "entities": ["David Cavallo"]
+  },
+  {
+    "id": "qqPtSJ1EIdU",
+    "summary": "José Gómez-Márquez describe cómo el ecosistema Maker Health empodera a médicos para fabricar sus propias herramientas tecnológicas. Además, explica el uso de laboratorios moleculares modulares en condiciones extremas, desde el desierto de Atacama hasta la Estación Espacial Internacional.",
+    "keywords": ["Maker Health", "Salud Global", "Tecnología en Ambientes Extremos", "DIY Medical"],
+    "entities": ["José Gómez-Márquez", "Maker Health", "Patagonia", "Desierto de Atacama", "Estación Espacial"]
+  },
+  {
+    "id": "1sjflimltG8",
+    "summary": "Video promocional de la iniciativa Maker Campus, un programa de formación tecnológica para escolares y docentes. El espacio fomenta la creatividad, el uso de herramientas de fabricación digital y el desarrollo de proyectos con impacto social.",
+    "keywords": ["Maker Campus", "STEM", "Educación Secundaria", "Fabricación Digital"],
+    "entities": ["Maker Campus", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "nCLxuuiCiqc",
+    "summary": "Sesión de capacitación presencial para docentes enfocada en la integración de tecnologías Maker en el aula escolar. Los profesores comparten experiencias prácticas para empoderarse en el uso de herramientas tecnológicas y motivar a sus estudiantes.",
+    "keywords": ["Capacitación Docente", "Maker Campus", "Innovación Pedagógica", "Tecnología Educativa"],
+    "entities": ["Corporación Municipal de Las Condes", "Maker Campus"]
+  },
+  {
+    "id": "FesUUIbZyI4",
+    "summary": "Resumen de la 'Semana I', donde estudiantes de diversas disciplinas colaboran en la resolución de problemas reales como el tratamiento de residuos orgánicos. Se destaca el diseño de biomateriales y la toma de conciencia sobre el impacto ambiental en ecosistemas locales.",
+    "keywords": ["Biomateriales", "Residuos Orgánicos", "Aprendizaje Experiencial", "Interdisciplinariedad"],
+    "entities": ["Semana I", "Museo Interactivo Coronel", "Cajón del Maipo"]
+  },
+  {
+    "id": "QPMMMqzOD9U",
+    "summary": "Descripción del nuevo Makerspace en el Colegio Las Condes, equipado con tecnología de vanguardia como cortadoras láser e impresoras 3D. El espacio permite a los alumnos transformar sus ideas digitales en prototipos físicos funcionales y seguros.",
+    "keywords": ["Makerspace", "Corte Láser", "Impresión 3D", "Educación Tecnológica"],
+    "entities": ["Colegio Las Condes"]
+  },
+  {
+    "id": "9ocLBio94HM",
+    "summary": "Segunda clase de Python para principiantes que cubre conceptos avanzados como funciones, módulos y programación orientada a objetos. Incluye la resolución guiada de problemas lógicos como la serie de Fibonacci y el desarrollo del juego Mastermind.",
+    "keywords": ["Python", "Programación Orientada a Objetos", "Serie de Fibonacci", "Algoritmos"],
+    "entities": ["Anaconda", "Jupyter Notebooks", "Spyder"]
+  },
+  {
+    "id": "Jsic_UXHtsM",
+    "summary": "Introducción al lenguaje de programación Python, explicando su sintaxis y ventajas como lenguaje interpretado de alto nivel. La sesión aborda el manejo de variables, tipos de datos básicos y operadores aritméticos para nuevos desarrolladores.",
+    "keywords": ["Python", "Scripting", "Sintaxis", "Tipos de Datos"],
+    "entities": ["Python", "Sublime Text"]
+  },
+  {
+    "id": "RzUq8eZw6dg",
+    "summary": "Estudiantes de ingeniería presentan 'Eco Gris', un sistema doméstico para el reciclaje de aguas residuales y recarga de acuíferos. El proyecto busca mitigar la escasez hídrica mediante una solución adaptable y automatizada para el hogar.",
+    "keywords": ["Reciclaje de Agua", "Acuíferos", "Eco Gris", "Impacto Ambiental"],
+    "entities": ["Eco Gris", "ImpactoUDD"]
+  },
+  {
+    "id": "bORNe1wkQFA",
+    "summary": "Finalización de una campaña de monitoreo de calidad del aire en Coyhaique que utiliza sensores de bajo costo y ciencia ciudadana. El estudio revela el impacto de la leña en la contaminación intramuros y la dinámica de exposición individual en invierno.",
+    "keywords": ["Calidad del Aire", "Sensores de Bajo Costo", "Ciencia Ciudadana", "Material Particulado"],
+    "entities": ["Ex Camp 2022", "Coyhaique"]
+  },
+  {
+    "id": "r02H8UN2FXQ",
+    "summary": "Taller MakerCamp donde estudiantes construyen celulares funcionales utilizando placas Arduino y modelado 3D. La actividad fomenta la inclusión y permite a los participantes comprender la tecnología de consumo desde el hardware y el código.",
+    "keywords": ["Arduino", "Tinkercad", "Hardware Abierto", "Telecomunicaciones"],
+    "entities": ["MakerCamp 2022", "Arduino", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "lIAD7TaPDCc",
+    "summary": "Propuesta para la creación de un laboratorio tecnológico enfocado en la sostenibilidad productiva de la Región del Maule. El proyecto busca implementar soluciones de IA, automatización y economía circular para mejorar la competitividad de pymes agrícolas.",
+    "keywords": ["Economía Circular", "Inteligencia Artificial", "Sostenibilidad", "Maule"],
+    "entities": ["Laboratorio Tecnológico para la Sostenibilidad del Maule", "Centro de Investigación en Tecnologías para la Sociedad UDD"]
+  },
+  {
+    "id": "BqumzGc7gtY",
+    "summary": "Firma de convenio entre la UDD y el instituto australiano SMI-ICE para investigar la gestión de recursos hídricos y monitoreo ambiental minero. Se destacan proyectos conjuntos como redes sensoriales en Tarapacá y biodigestores para residuos orgánicos.",
+    "keywords": ["Minería Sustentable", "Recursos Hídricos", "Biodigestores", "Monitoreo Ambiental"],
+    "entities": ["SMI-ICE Chile", "Universidad de Queensland", "Proyecto Tusca", "Región de Tarapacá"]
+  }
+]

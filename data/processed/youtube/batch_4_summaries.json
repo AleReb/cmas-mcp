@@ -1,0 +1,182 @@
+[
+  {
+    "id": "3shBwankkYU",
+    "summary": "Estudiantes de la Facultad de Ingeniería UDD presentan proyectos de innovación como Push Finder, un inhalador con geolocalización, y sensores cardíacos con Arduino. La feria destaca la aplicación de ciencia y tecnología para resolver problemas sociales y médicos reales.",
+    "keywords": ["Ingeniería Civil en Biomedicina", "Geolocalización", "Arduino", "Sensores biomédicos"],
+    "entities": ["Martina Casas del Valle", "Push Finder", "Sebastián Mira", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "vU-mktsxCqA",
+    "summary": "Docentes del Colegio Alberto Blest Gana participaron en una capacitación tecnológica en el Maker Campus de la UDD para integrar herramientas digitales en sus asignaturas. Se abordaron temas como robótica emocional y el uso pedagógico de inteligencia artificial como ChatGPT para potenciar el aprendizaje.",
+    "keywords": ["Innovación educativa", "Robótica", "ChatGPT", "Maker Campus", "Integración tecnológica"],
+    "entities": ["Colegio Alberto Blest Gana", "Maker Campus UDD", "Comuna de San Ramón"]
+  },
+  {
+    "id": "lqzPcdCNZpw",
+    "summary": "La Dra. María Estrella Alcamán describe sus investigaciones sobre ecología microbiana en sistemas extremos como la Antártica y los salares altoandinos. Su trabajo se enfoca en comprender las adaptaciones de estos microorganismos y su potencial biotecnológico frente a la minería del litio y cambios climáticos.",
+    "keywords": ["Ecología microbiana", "Sistemas extremos", "Biotecnología", "Genética molecular"],
+    "entities": ["María Estrella Alcamán Arias", "Centro C+", "Facultad de Ingeniería UDD", "Antártica"]
+  },
+  {
+    "id": "oyKQxbAOXdc",
+    "summary": "El tercer encuentro científico por la Cuenca del Maipo reunió a investigadores, organizaciones territoriales y agencias estatales en Talagante para discutir la sustentabilidad del territorio. La instancia facilitó el diálogo entre la ciencia y la ciudadanía para la protección medioambiental del río y su cuenca.",
+    "keywords": ["Gestión hídrica", "Sustentabilidad", "Ciencia ciudadana", "Cuenca del Maipo"],
+    "entities": ["Río Maipo", "Río Mapocho", "Talagante", "San Antonio"]
+  },
+  {
+    "id": "jbRa1MElu94",
+    "summary": "El proyecto Anillo OASIS is una iniciativa multidisciplinaria que integra geología, ecología, microbiología y ciencia de datos para estudiar los salares de Atacama. Busca generar conocimiento científico que asegure la sostenibilidad social y ambiental frente a la explotación futura del litio.",
+    "keywords": ["Salares altoandinos", "Litio", "Transdisciplina", "Data Science", "Geología estructural"],
+    "entities": ["Proyecto OASIS", "ANID", "Salar de Maricunga", "Región de Atacama"]
+  },
+  {
+    "id": "xElTCeRVX7A",
+    "summary": "Análisis integral sobre la contaminación del aire en Chile, abordando desde el material particulado en zonas industriales hasta el impacto de la quema de leña en el sur. Se presentan diversas investigaciones del Centro C+ sobre monitoreo con sensores de bajo costo, salud pública y planes de descontaminación.",
+    "keywords": ["Calidad del aire", "Material particulado", "Carbono negro", "Salud pública", "Sensores de bajo costo"],
+    "entities": ["Proyecto FONDECYT", "Quintero-Puchuncaví", "Calama", "Coyhaique", "Santiago"]
+  },
+  {
+    "id": "bzBF31B36RY",
+    "summary": "Sebastián Adonay reflexiona sobre el valor de la innovación regional y la necesidad de descentralizar el talento hacia soluciones locales. Destaca que la colaboración entre universidades y comunidades regionales permite crear proyectos tecnológicos de alto impacto que no dependen de la capital.",
+    "keywords": ["Descentralización", "Innovación regional", "Trabajo colaborativo", "Impacto social"],
+    "entities": ["Sebastián Adonay", "Centro C+", "Concepción"]
+  },
+  {
+    "id": "lksh4Nf4nqs",
+    "summary": "El proyecto Maker Sur empodera a comunidades aisladas de Aysén mediante la fabricación digital y la economía circular. Se promueve la autosuficiencia a través de la impresión 3D de repuestos y sistemas hidropónicos diseñados localmente para la soberanía alimentaria.",
+    "keywords": ["Fabricación digital", "Impresión 3D", "Soberanía alimentaria", "Economía circular"],
+    "entities": ["Maker Sur", "Región de Aysén", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "96rb6cA_XgM",
+    "summary": "Iniciativa que busca democratizar el acceso a tecnologías de fabricación en el sur de Chile para fortalecer la autonomía y el desarrollo sostenible local. El proyecto destaca la creación de módulos hidropónicos y herramientas personalizadas para resolver desafíos productivos en zonas remotas.",
+    "keywords": ["Innovación local", "Hidroponía", "Desarrollo sostenible", "Prototipado digital"],
+    "entities": ["Proyecto Maker Sur", "Región de Aysén", "Maker Campus"]
+  },
+  {
+    "id": "Ni5oKKClb_4",
+    "summary": "La comunidad indígena de Cancosa comparte sus conocimientos sobre la gestión ancestral de bofedales en la Pampa Lagunillas mediante la 'siembra de agua'. Explican cómo el desvío controlado de aguas y la limpieza de acequias son vitales para recuperar la humedad y mantener la biodiversidad del territorio.",
+    "keywords": ["Bofedales", "Siembra de agua", "Conocimiento indígena", "Gestión hídrica"],
+    "entities": ["Comunidad Aymara de Cancosa", "Pampa Lagunillas", "Anastasio Moscoso"]
+  },
+  {
+    "id": "InahnbAznPU",
+    "summary": "Este tráiler destaca la importancia de las prácticas tradicionales en la recuperación de humedales altoandinos en Pampa Lagunillas. Resalta el compromiso de los comuneros aymaras por sanar la 'madre tierra' mediante el manejo cuidadoso del recurso hídrico.",
+    "keywords": ["Humedales", "Conservación ambiental", "Riego tradicional"],
+    "entities": ["Pampa Lagunillas", "Comunidad de Cancosa"]
+  },
+  {
+    "id": "C4YISMroVO8",
+    "summary": "El proyecto Blinduino adapta la plataforma Arduino con herramientas de inteligencia artificial para que personas con discapacidad visual aprendan programación de forma autónoma. La iniciativa busca fomentar la creatividad y la inclusión laboral en tecnología mediante el prototipado autodidacta.",
+    "keywords": ["Tiflotecnología", "Arduino", "Inclusión digital", "Inteligencia Artificial"],
+    "entities": ["Proyecto Blinduino", "Fundación Luz", "Coalivia"]
+  },
+  {
+    "id": "X3902MHr9xE",
+    "summary": "Introducción al Centro de Investigación en Tecnologías para la Sociedad (C+), dedicado a generar proyectos científicos con impacto positivo en la comunidad. Se promueve la innovación y la ciencia aplicada desde la Facultad de Ingeniería de la UDD.",
+    "keywords": ["Investigación aplicada", "Innovación tecnológica", "Impacto social"],
+    "entities": ["Centro C+", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "gY4yadpF9k0",
+    "summary": "Lanzamiento de Net Futuro UDD, un espacio interdisciplinario que reúne a expertos para analizar los efectos éticos, sociales y económicos de la tecnología. La iniciativa busca generar herramientas de gobernanza y anticipar impactos globales en áreas como salud, habitabilidad y trabajo.",
+    "keywords": ["Gobernanza tecnológica", "Interdisciplina", "Prospectiva", "Impacto social"],
+    "entities": ["Net Futuro UDD", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "gF7WYZ7Avys",
+    "summary": "Vicente Lorca aboga por incentivar el pensamiento creativo en niños a través del uso de la tecnología como herramienta para transformar ideas en realidades tangibles. Destaca que el aprendizaje basado en desafíos reales prepara a las nuevas generaciones para liderar en un mundo complejo.",
+    "keywords": ["Pensamiento creativo", "Educación STEM", "Maker Campus", "Innovación"],
+    "entities": ["Vicente Lorca", "Maker Campus UDD"]
+  },
+  {
+    "id": "AQMu4HLE3s4",
+    "summary": "Colaboración entre el Centro C+ y la empresa suiza Alterra para investigar y medir concentraciones de litio en salares chilenos. El proyecto busca fortalecer la transición energética y la electromovilidad, mientras capacita a geólogos en el estudio práctico de depósitos minerales.",
+    "keywords": ["Litio", "Transición energética", "Electromovilidad", "Geología"],
+    "entities": ["Centro C+", "Alterra", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "wHCTV2GVt2s",
+    "summary": "El Grupo de Nuevos Materiales del Centro C+ presenta la 'Meta-Rueda', un innovador diseño de neumático que utiliza metamateriales para evitar pinchazos. La tecnología permite mejorar la durabilidad y seguridad de los vehículos mediante propiedades estructurales avanzadas.",
+    "keywords": ["Metamateriales", "Meta-Rueda", "Ciencia de materiales", "Neumáticos"],
+    "entities": ["Centro C+", "Grupo de Nuevos Materiales", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "bs-SiKcxElE",
+    "summary": "Finalización de la campaña de monitoreo ambiental comunitario en Pampa Lagunillas, enfocada en el estudio de microorganismos y vegetación de los bofedales. La iniciativa integra la cosmovisión indígena con el análisis técnico para la puesta en valor y defensa del territorio de Cancosa.",
+    "keywords": ["Monitoreo ambiental", "Microbiología", "Bofedales", "Defensa territorial"],
+    "entities": ["Comunidad de Cancosa", "Pampa Lagunillas", "Centro C+"]
+  },
+  {
+    "id": "iVE_fqQSnrg",
+    "summary": "El proyecto EOLO desarrolla prototipos para la captura de material microbiológico en el aire utilizando matrices de agua para su análisis posterior. Los dispositivos han sido probados exitosamente en la Antártica, alta montaña y Costa Rica para estudios de contaminación y caracterización atmosférica.",
+    "keywords": ["Monitoreo atmosférico", "Aerobiología", "Prototipado electrónico", "Contaminación biológica"],
+    "entities": ["Proyecto EOLO", "Centro C+", "Antártica"]
+  },
+  {
+    "id": "rz44Rje-v4A",
+    "summary": "Inicio de la campaña de terreno del proyecto Oasis en el Salar de Maricunga, con la participación de expertos en geología, ecología, microbiología y ciencia de datos. Se emplean drones, sensores de radiación UV y detectores de gases para realizar un levantamiento integral de los componentes del salar.",
+    "keywords": ["Ecología de salares", "Drones", "Senssores ambientales", "Geología"],
+    "entities": ["Proyecto Oasis", "Salar de Maricunga", "Laguna Santa Rosa"]
+  },
+  {
+    "id": "BL54bPtB2x8",
+    "summary": "Instalación de estaciones de monitoreo en el Río Biobío para medir parámetros físico-químicos como pH y conductividad en tiempo real. Los datos recolectados se transmiten vía 4G a una plataforma web, facilitando la toma de decisiones para la agricultura y el cuidado del ecosistema fluvial.",
+    "keywords": ["Monitoreo hídrico", "Telemetría", "Calidad del agua", "Sensores modulares"],
+    "entities": ["Río Biobío", "Centro C+", "Nacimiento", "Laja"]
+  },
+  {
+    "id": "gOS1sDG5jJA",
+    "summary": "El Maker Camp UDD reunió a estudiantes de media para desarrollar soluciones de salud integrando electrónica, modelado 3D e inteligencia artificial. La actividad promueve las nuevas carreras de Biomedicina e IA de la UDD, conectando la ingeniería con las necesidades de los pacientes.",
+    "keywords": ["IA en salud", "Ingeniería Biomédica", "Educación Maker", "Interdisciplina"],
+    "entities": ["Facultad de Ingeniería UDD", "Facultad de Medicina Clínica Alemana UDD"]
+  },
+  {
+    "id": "we2IsdlBLyY",
+    "summary": "Lanzamiento del proyecto piloto 'Me muevo por un Santiago más limpio', donde ciclistas urbanos utilizan sensores móviles para medir el material particulado en sus trayectos. La iniciativa de ciencia ciudadana busca identificar rutas saludables y puntos críticos de contaminación en la capital.",
+    "keywords": ["Ciencia ciudadana", "Calidad del aire", "Material particulado", "Movilidad sustentable"],
+    "entities": ["Centro C+", "Santiago", "Parque Bustamante"]
+  },
+  {
+    "id": "pQthAtwQLlI",
+    "summary": "Recorrido por los laboratorios del Centro C+ en Santiago, destacando las áreas de química analítica, manufactura CNC y prototipado. Se presentan proyectos de impacto social como Hiri para monitoreo de aire y Citrek, una silla diseñada para trekking inclusivo.",
+    "keywords": ["Química analítica", "Manufactura digital", "Impresión 3D", "Innovación social"],
+    "entities": ["Christopher Silva", "Centro C+", "Santiago"]
+  },
+  {
+    "id": "ycVcv1LF4do",
+    "summary": "Presentación de las instalaciones de investigación y desarrollo del Centro C+ en Concepción, enfocadas en soluciones modulares para la región. El centro cuenta con laboratorios de prototipado electrónico, impresión 3D y análisis microbiológico para proyectos con impacto real en la sociedad.",
+    "keywords": ["Prototipado electrónico", "Impresión 3D", "Microbiología", "Soluciones regionales"],
+    "entities": ["Centro C+", "Concepción", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "TFKU7sGYLZE",
+    "summary": "El Centro C+ impulsa la ciencia ciudadana mediante la colaboración entre investigadores y comunidades locales para monitorear agua, aire y suelos. Estas iniciativas buscan democratizar la información científica y rescatar el conocimiento territorial para enfrentar problemas ambientales en Chile y el continente.",
+    "keywords": ["Ciencia ciudadana", "Monitoreo comunitario", "Democratización de la información", "Conocimiento local"],
+    "entities": ["Centro C+", "Coyhaique", "Costa Rica", "UNESCO"]
+  },
+  {
+    "id": "ZpYf-da_Wnk",
+    "summary": "Estudio sobre la calidad del aire en Coyhaique enfocado en la medición vertical y superficial de contaminantes provenientes de la calefacción a leña. El proyecto utiliza sensores hogareños y ciencia ciudadana para comprender la dinámica de dispersión atmosférica y sus efectos en la salud de la población.",
+    "keywords": ["Contaminación atmosférica", "Material particulado", "Inversión térmica", "Ciencia ciudadana"],
+    "entities": ["Luis Gómez", "Coyhaique", "Universidad de Aysén"]
+  },
+  {
+    "id": "jWtzYoycC3Y",
+    "summary": "Miembros de la comunidad de Cancosa se capacitan como monitores ambientales para proteger los bofedales de Pampa Lagunillas mediante técnicas tradicionales y científicas. El proyecto busca fortalecer la defensa territorial y la alerta temprana frente a cambios bruscos causados por la actividad industrial.",
+    "keywords": ["Monitoreo ambiental", "Bofedales", "Conservación comunitaria", "Alerta temprana"],
+    "entities": ["Comunidad de Cancosa", "Pampa Lagunillas", "Edwin Forita Quispe"]
+  },
+  {
+    "id": "FO056cPXxwo",
+    "summary": "La Feria de Ciencias y Tecnología 2024 presentó cerca de 90 proyectos estudiantiles centrados en problemas reales como la escasez hídrica y el compostaje. Las innovaciones incluyen sistemas de monitoreo con sensores y plataformas para potenciar la inversión en la pequeña minería.",
+    "keywords": ["Sostenibilidad", "Gestión hídrica", "Compostaje automatizado", "Pequeña minería"],
+    "entities": ["Facultad de Ingeniería UDD", "Santiago"]
+  },
+  {
+    "id": "WYfP7C1tFVA",
+    "summary": "El tercer Encuentro Nacional de Sensores y Monitoreo Ambiental abordó temas de salud global, inteligencia ambiental y participación comunitaria. Expertos discutieron cómo transformar datos de sensores y satélites en conocimiento accionable para mejorar las políticas públicas ambientales.",
+    "keywords": ["Salud ambiental", "Monitoreo comunitario", "Inteligencia ambiental", "Políticas públicas"],
+    "entities": ["Centro C+", "Universidad del Desarrollo"]
+  }
+]

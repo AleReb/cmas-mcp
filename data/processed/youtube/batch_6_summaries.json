@@ -1,0 +1,311 @@
+[
+  {
+    "id": "KmeJ0Q2MdV8",
+    "summary": "El video presenta un encuentro nacional sobre la industria del litio en Chile, destacando la importancia de la tecnología y la sustentabilidad en su desarrollo. Se discute la Estrategia Nacional del Litio y los desafíos técnicos relacionados con la extracción directa y la reinyección de salmueras.",
+    "keywords": [
+      "Litio",
+      "Sustentabilidad",
+      "Extracción Directa",
+      "Geología",
+      "Tecnología"
+    ],
+    "entities": [
+      "Universidad del Desarrollo (UDD)",
+      "Estrategia Nacional del Litio"
+    ]
+  },
+  {
+    "id": "unh9oSblmww",
+    "summary": "Descripción del monitoreo de vegetación en Altas Cumbres del Parque Nacional Río Clarillo para estudiar el impacto del cambio climático. El proyecto busca dar continuidad a la red GLORIA a través del grupo de ambientes extremos del Centro C+.",
+    "keywords": [
+      "Cambio Climático",
+      "Monitoreo Ambiental",
+      "Vegetación",
+      "Altas Cumbres",
+      "GEF Montaña"
+    ],
+    "entities": [
+      "Parque Nacional Río Clarillo",
+      "ONU Medio Ambiente",
+      "Ministerio del Medio Ambiente",
+      "Centro C+",
+      "Proyecto GLORIA"
+    ]
+  },
+  {
+    "id": "olWnVS7JtFM",
+    "summary": "Desarrollo del sillín paralímpico SIDEX, diseñado para mejorar la ergonomía y seguridad en la práctica de rafting y canotaje. El proyecto se enfoca en adaptar el equipamiento deportivo para personas con movilidad reducida en extremidades inferiores.",
+    "keywords": [
+      "Rafting Paralímpico",
+      "Diseño Ergonómico",
+      "Inclusión Deportiva",
+      "Canotaje",
+      "Seguridad"
+    ],
+    "entities": [
+      "Proyecto SIDEX"
+    ]
+  },
+  {
+    "id": "321stDClpog",
+    "summary": "Estudiantes de colegios municipales visitan el Maker Space de Las Condes para familiarizarse con nuevas tecnologías y procesos de fabricación. La iniciativa busca fomentar la creatividad y posicionar a los niños como futuros solucionadores de problemas mediante la tecnología.",
+    "keywords": [
+      "Maker Space",
+      "Educación Tecnológica",
+      "Innovación Educativa",
+      "Proyectos Escolares",
+      "Tecnología"
+    ],
+    "entities": [
+      "Las Condes",
+      "Corporación Municipal de Las Condes"
+    ]
+  },
+  {
+    "id": "FXghGIqbpuY",
+    "summary": "El Centro C+ participa en un encuentro científico para dialogar con activistas y la comunidad local sobre la gestión de la Cuenca del Maipo. Se enfatiza la importancia de compartir información técnica para enfrentar los desafíos del cambio climático y eventos climáticos extremos.",
+    "keywords": [
+      "Gestión Hídrica",
+      "Cambio Climático",
+      "Ciencia Ciudadana",
+      "Cuenca del Maipo",
+      "Diálogo Científico"
+    ],
+    "entities": [
+      "Centro C+",
+      "Cuenca del Maipo",
+      "Voluntades por el Agua"
+    ]
+  },
+  {
+    "id": "2KfWiKIWPa8",
+    "summary": "Diseño de la tina universal UniTub, adaptada para personas con movilidad reducida, adultos mayores y niños en entornos familiares. El producto es modular y busca asegurar la autonomía en la maniobra de transferencia para usuarios con discapacidad.",
+    "keywords": [
+      "Diseño Universal",
+      "Accesibilidad",
+      "Autonomía",
+      "Discapacidad",
+      "Terapia Ocupacional"
+    ],
+    "entities": [
+      "UniTub"
+    ]
+  },
+  {
+    "id": "ynf7Yma7aCo",
+    "summary": "Colaboración en el proyecto Space Pharmacy para probar la fabricación de medicamentos en microgravedad utilizando bloques modulares. El experimento en la Estación Espacial Internacional busca validar tecnologías para entornos extremos aplicables en la Tierra.",
+    "keywords": [
+      "Microgravedad",
+      "Farmacia Espacial",
+      "Ambientes Extremos",
+      "Estación Espacial Internacional (ISS)",
+      "Innovación Biomédica"
+    ],
+    "entities": [
+      "Centro C+",
+      "Estación Espacial Internacional",
+      "Boston",
+      "Makers"
+    ]
+  },
+  {
+    "id": "dAQZsFUynIo",
+    "summary": "Presentación del Centro de Investigación en Tecnologías para la Sociedad (C+), enfocado en resolver desafíos sociales mediante la interdisciplina. El centro integra ingeniería, diseño y ciencias para desarrollar soluciones en salud, medio ambiente y sistemas inteligentes.",
+    "keywords": [
+      "Tecnologías para la Sociedad",
+      "Investigación Interdisciplinaria",
+      "Innovación Social",
+      "Ingeniería",
+      "Diseño"
+    ],
+    "entities": [
+      "Centro de Investigación en Tecnologías para la Sociedad (C+)"
+    ]
+  },
+  {
+    "id": "xZOo177H8dA",
+    "summary": "Plataforma que utiliza ciencia de datos e inteligencia artificial para analizar fenómenos sociales y territoriales en barrios segregados de Santiago. El observatorio busca proporcionar herramientas de visualización para mejorar la toma de decisiones de las autoridades.",
+    "keywords": [
+      "Ciencia de Datos",
+      "Inteligencia Artificial",
+      "Segregación Urbana",
+      "Análisis Territorial",
+      "Políticas Públicas"
+    ],
+    "entities": [
+      "Observatorio de la Calle",
+      "San Bernardo",
+      "Santiago"
+    ]
+  },
+  {
+    "id": "DaBVxR2YdlQ",
+    "summary": "Desarrollo de Lemu Biotextil, un material basado en la valorización de residuos orgánicos y aglomerantes de origen vegetal. El proyecto busca integrar estos biomateriales sustentables en la producción industrial de accesorios y vestimenta.",
+    "keywords": [
+      "Biotextiles",
+      "Economía Circular",
+      "Residuos Orgánicos",
+      "Biomateriales",
+      "Sustentabilidad"
+    ],
+    "entities": [
+      "Empresa Tenaz",
+      "Centro C+",
+      "Corfo"
+    ]
+  },
+  {
+    "id": "AuRxWc2dYZY",
+    "summary": "Dispositivo robótico denominado Pulpo, diseñado para medir la inclinación y detectar grietas en pozos de fundaciones para construcción. Utiliza brazos extensibles y sensores acelerómetros para evaluar el estado estructural y asegurar la calidad de las obras.",
+    "keywords": [
+      "Ingeniería Civil",
+      "Sensores",
+      "Monitoreo de Pozos",
+      "Robótica Aplicada",
+      "Construcción"
+    ],
+    "entities": [
+      "Proyecto Pulpo",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "wmyaVWmIRBQ",
+    "summary": "Implementación de micro-biodigestores modulares de bajo costo para el tratamiento de residuos orgánicos y generación de biogás. El sistema incorpora sensores electrónicos para facilitar el monitoreo operativo y la eficiencia en la producción de fertilizante orgánico.",
+    "keywords": [
+      "Biogás",
+      "Residuos Orgánicos",
+      "Biodigestores",
+      "Sensores",
+      "Energías Renovables"
+    ],
+    "entities": [
+      "Centro C+",
+      "Norte y Sur de Chile"
+    ]
+  },
+  {
+    "id": "75VkgIwC8n8",
+    "summary": "Desarrollo de un dispositivo de medición de presión en prendas compresivas mediante el uso de un maniquí flexible con sensores. El sistema asegura que las presiones aplicadas en pacientes con quemaduras estén dentro del rango terapéutico efectivo.",
+    "keywords": [
+      "Prendas Compresivas",
+      "Sensores de Presión",
+      "Rehabilitación",
+      "Dispositivos Médicos",
+      "Biomédica"
+    ],
+    "entities": [
+      "COANIQUEM",
+      "Centro C+"
+    ]
+  },
+  {
+    "id": "TbhfAmwpazU",
+    "summary": "Instalación de servidores solares en Santiago y otras regiones de Chile como parte del Solar Protocol Project. El proyecto promueve el uso de tecnologías digitales alimentadas por energías renovables con un enfoque en la responsabilidad ambiental.",
+    "keywords": [
+      "Servidores Solares",
+      "Responsabilidad Ambiental",
+      "Energía Solar",
+      "Tecnologías Sostenibles",
+      "Red Digital"
+    ],
+    "entities": [
+      "Escuela de Ingeniería UDD",
+      "Centro C+",
+      "Solar Protocol Project"
+    ]
+  },
+  {
+    "id": "AY0exaL_yfw",
+    "summary": "Simulador de realidad virtual inmersiva para el entrenamiento de cirujanos en técnicas de cirugía de mínimo acceso. La plataforma permite el desarrollo de habilidades psicomotoras de forma remota y facilita el trabajo colaborativo en entornos virtuales.",
+    "keywords": [
+      "Realidad Virtual",
+      "Cirugía Mínimamente Invasiva",
+      "Simulación Médica",
+      "Telemedicina",
+      "Entrenamiento Quirúrgico"
+    ],
+    "entities": [
+      "Simulador de Cirugía de Mínimo Acceso",
+      "Centro C+"
+    ]
+  },
+  {
+    "id": "ISWPJzQra04",
+    "summary": "Creación del Laboratorio Tecnológico para el Adulto Mayor en la Región del BioBío con el fin de reducir brechas de acceso a la salud. La iniciativa implementa un observatorio y factoría tecnológica para desarrollar soluciones locales a problemáticas demográficas.",
+    "keywords": [
+      "Salud Digital",
+      "Adulto Mayor",
+      "Brecha Tecnológica",
+      "Innovación Regional",
+      "Gestión en Salud"
+    ],
+    "entities": [
+      "Universidad del Desarrollo (UDD)",
+      "Región del BioBío",
+      "Gobierno Regional del BioBío",
+      "Hospital Guillermo Grant Benavente",
+      "FIC-R"
+    ]
+  },
+  {
+    "id": "S_RFv0Pi5Y4",
+    "summary": "La Escuela de Verano Maker Campus 2023 desafía a estudiantes a construir robots para la limpieza del suelo marino utilizando Arduino. El programa fomenta el pensamiento sistémico y la resolución de problemas aplicados a la sostenibilidad ambiental.",
+    "keywords": [
+      "Robótica Educativa",
+      "Arduino",
+      "Sostenibilidad",
+      "Maker Campus",
+      "STEM"
+    ],
+    "entities": [
+      "Maker Campus 2023",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "XJR5WPpwvn0",
+    "summary": "Presentación de proyectos conjuntos entre el Centro C+ y COANIQUEM para la rehabilitación infantil mediante realidad virtual y escaneo 3D. Las herramientas desarrolladas buscan mejorar la adhesión al tratamiento y la fabricación precisa de prendas compresivas.",
+    "keywords": [
+      "Realidad Virtual",
+      "Fabricación Digital",
+      "Rehabilitación Infantil",
+      "Escaneo 3D",
+      "Innovación en Salud"
+    ],
+    "entities": [
+      "Centro C+",
+      "Universidad del Desarrollo (UDD)",
+      "COANIQUEM"
+    ]
+  },
+  {
+    "id": "oTRoSNeRwaQ",
+    "summary": "El proyecto Comunidades Hídricas Resilientes (CHR) se enfoca en fortalecer la capacidad de adaptación de comunidades frente a la escasez de agua. La iniciativa integra tecnologías y gestión comunitaria para asegurar la sostenibilidad del recurso hídrico.",
+    "keywords": [
+      "Resiliencia Hídrica",
+      "Comunidades",
+      "Gestión del Agua",
+      "Sustentabilidad"
+    ],
+    "entities": [
+      "Comunidades Hídricas Resilientes (CHR)"
+    ]
+  },
+  {
+    "id": "J42PyvfNnAU",
+    "summary": "Estudiantes de ingeniería finalizan el Taller de Diseño con 20 proyectos tecnológicos para la Clínica Los Coihues, especializada en neurorehabilitación. Se destaca la creación de un sistema de alarma activado por parpadeo para pacientes con tetraplejia.",
+    "keywords": [
+      "Neurorehabilitación",
+      "Diseño en Ingeniería",
+      "Accesibilidad",
+      "Sensores",
+      "Impacto Social"
+    ],
+    "entities": [
+      "Universidad del Desarrollo (UDD)",
+      "Clínica Los Coihues",
+      "Proyecto Alarma X"
+    ]
+  }
+]

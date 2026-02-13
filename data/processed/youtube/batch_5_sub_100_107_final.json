@@ -1,0 +1,50 @@
+[
+  {
+    "id": "eL-OkpgXv3s",
+    "summary": "Video institucional que presenta una síntesis de los proyectos desarrollados por el Centro de Investigación en Tecnologías para la Sociedad (C+) de Ingeniería UDD. Destaca el enfoque del centro en investigación aplicada y desarrollo tecnológico con impacto social.",
+    "keywords": ["investigación aplicada", "transferencia tecnológica", "innovación", "impacto social"],
+    "entities": ["Centro C+", "Facultad de Ingeniería UDD", "Universidad del Desarrollo"]
+  },
+  {
+    "id": "sWcnHsw9-YI",
+    "summary": "Tomás Solano, estudiante de Ingeniería UDD, colabora en un proyecto de realidades extendidas para simulación de sutura, integrando herramientas físicas y entorno virtual. El trabajo se enmarca en un proyecto FONDEF para desarrollar simuladores de cirugía de mínimo acceso con apoyo de inteligencia artificial.",
+    "keywords": ["realidades extendidas", "simulación de sutura", "cirugía de mínimo acceso", "inteligencia artificial", "entrenamiento quirúrgico"],
+    "entities": ["Tomás Solano", "Ingeniería UDD", "Centro C+", "grupo de Realidades Extendidas", "FONDEF"]
+  },
+  {
+    "id": "sndZNXyCLcc",
+    "summary": "Impacto UDD reporta avances 2023 orientados a aprendizaje con impacto social para estudiantes de ingeniería, incluyendo colaboración con la Cámara Chilena de la Construcción y desafíos asociados a la ley de reciclaje. Para 2024, proyecta nuevas experiencias formativas vinculadas a problemáticas reales como la catástrofe de Viña del Mar.",
+    "keywords": ["impacto social", "innovación educativa", "ley de reciclaje", "aprendizaje experiencial", "vinculación territorial"],
+    "entities": ["Impacto UDD", "Dirección de Innovación de Ingeniería UDD", "Cámara Chilena de la Construcción", "Viña del Mar", "Región de Los Lagos", "Aysén"]
+  },
+  {
+    "id": "6dsUXT_68sg",
+    "summary": "Maker Campus describe su trabajo en incorporación de pensamiento computacional en contextos escolares diversos, desde colegios con baja a alta disponibilidad tecnológica. Durante 2023 trabajó con más de 20 colegios y para 2024 busca ampliar cobertura y publicar aprendizajes metodológicos para fortalecer la educación con tecnología como habilitador.",
+    "keywords": ["pensamiento computacional", "Maker Space", "innovación educativa", "tecnología educativa", "desarrollo de habilidades futuras"],
+    "entities": ["Maker Campus", "colegios de Chile", "docentes", "alumnos"]
+  },
+  {
+    "id": "MuKxSKnQDuw",
+    "summary": "La ceremonia de cierre del proyecto FIC 'Laboratorio Tecnológico para la Salud del Adulto Mayor' presenta avances en identificación de brechas, desarrollo de soluciones tecnológicas y estrategia de transferencia. El programa se orienta a mejorar acceso y calidad en salud para personas mayores en la Región del Biobío, con foco en validación con usuarios y escalamiento regional.",
+    "keywords": ["salud del adulto mayor", "innovación en salud", "transferencia tecnológica", "validación con usuarios", "escalamiento regional"],
+    "entities": ["Proyecto FIC", "Laboratorio Tecnológico para la Salud del Adulto Mayor", "Universidad del Desarrollo", "Región del Biobío", "hospitales regionales"]
+  },
+  {
+    "id": "OlyYEnhGFfA",
+    "summary": "El Centro C+ expone que 2023 fue un año de consolidación interdisciplinaria, incorporando áreas biológicas y sociales para ampliar su alcance territorial y temático. Para 2024 plantea fortalecer investigación, sumar investigadores de mayor experiencia y robustecer laboratorios en distintas ciudades para potenciar colaboración nacional e internacional.",
+    "keywords": ["interdisciplina", "fortalecimiento de laboratorios", "transferencia de conocimiento", "colaboración nacional", "colaboración internacional"],
+    "entities": ["Centro C+", "Universidad del Desarrollo", "norte de Chile", "organizaciones", "empresas"]
+  },
+  {
+    "id": "-kvOVsA_y64",
+    "summary": "Programa desarrollado por Innovación Ingeniería junto a Fundación Vi-Da y Monkey Lab para entregar herramientas de gestión, administración, comunicación y articulación de redes a organizaciones de la sociedad civil vinculadas a salud. Los testimonios destacan su aporte práctico en financiamiento, formulación de proyectos e impacto en beneficiarios, especialmente pacientes oncológicos.",
+    "keywords": ["gestión de organizaciones", "administración", "articulación de redes", "financiamiento de proyectos", "salud pública"],
+    "entities": ["Innovación Ingeniería UDD", "Fundación Vi-Da", "Monkey Lab", "organizaciones de la sociedad civil", "pacientes oncológicos"]
+  },
+  {
+    "id": "a3LYB4-xHXc",
+    "summary": "El evento 'Chile Unido Frente al Cáncer' reunió actores de la sociedad civil para presentar resultados de una encuesta de percepción y generar diálogo multisectorial. Se enfatiza el valor de combinar evidencia metodológica académica y experiencia de pacientes/familias para apoyar decisiones en políticas públicas de salud oncológica.",
+    "keywords": ["cáncer", "encuesta de percepción", "políticas públicas en salud", "evidencia metodológica", "participación de pacientes"],
+    "entities": ["Chile Unido Frente al Cáncer", "Centro C+", "Fundación Vi-Da", "Universidad del Desarrollo", "pacientes", "familiares"]
+  }
+]

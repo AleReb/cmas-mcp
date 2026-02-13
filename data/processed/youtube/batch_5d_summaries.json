@@ -1,0 +1,143 @@
+[
+  {
+    "id": "gf1s-NjaWZM",
+    "summary": "Colaboración entre el Centro C+ y Wheel the World centrada en el desarrollo de soluciones para el turismo accesible. El proyecto busca mejorar el equipamiento técnico mediante el codiseño con personas en situación de discapacidad para generar un impacto social real.",
+    "keywords": [
+      "Turismo accesible",
+      "Diseño inclusivo",
+      "Equipamiento técnico",
+      "Innovación social"
+    ],
+    "entities": [
+      "Centro C+",
+      "Wheel the World",
+      "Extreme Access"
+    ]
+  },
+  {
+    "id": "dbSYnVoMWyY",
+    "summary": "Presentación de la Dirección de Innovación de la Facultad de Ingeniería UDD y sus cuatro pilares estratégicos para liderar el I+D aplicado. Se destacan el Centro C+, Maker Campus, UDD Impact y los Nodos Locales Tecnológicos como motores de soluciones sostenibles y responsables.",
+    "keywords": [
+      "I+D aplicada",
+      "Innovación tecnológica",
+      "Pensamiento computacional",
+      "Desarrollo sostenible"
+    ],
+    "entities": [
+      "Dirección de Innovación",
+      "Facultad de Ingeniería UDD",
+      "Centro C+",
+      "Maker Campus",
+      "UDD Impact",
+      "Nodos Locales Tecnológicos"
+    ]
+  },
+  {
+    "id": "z1fwtTorJW0",
+    "summary": "Cápsula educativa de Maker Campus que aborda la problemática del cyberbullying y la importancia del bienestar en entornos digitales. El contenido está orientado a fomentar una cultura de seguridad y respeto en el uso de internet dentro del ámbito escolar.",
+    "keywords": [
+      "Cyberbullying",
+      "Bienestar digital",
+      "Seguridad en internet"
+    ],
+    "entities": [
+      "Maker Campus",
+      "Facultad de Ingeniería UDD"
+    ]
+  },
+  {
+    "id": "ro6NkX9LdGQ",
+    "summary": "Visita del grupo Extreme Access a las instalaciones de Teletón para establecer una alianza de innovación tecnológica en rehabilitación. El objetivo es utilizar las capacidades de la universidad para desarrollar productos y servicios que eliminen barreras arquitectónicas y mejoren la calidad de vida de los pacientes.",
+    "keywords": [
+      "Rehabilitación",
+      "Accesibilidad universal",
+      "Tecnología asistiva",
+      "Impacto social"
+    ],
+    "entities": [
+      "Teletón Santiago",
+      "Extreme Access Lab",
+      "Centro C+",
+      "Ximena Ferrada",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "-S8fZhC3y00",
+    "summary": "Lanzamiento del Laboratorio Tecnológico de Optimización y Monitoreo de Recurso Hídrico en el Maule para enfrentar desafíos de gestión hídrica. El centro opera bajo dos pilares: investigación aplicada para pequeños agricultores y transferencia tecnológica hacia la comunidad y la industria local.",
+    "keywords": [
+      "Gestión hídrica",
+      "Monitoreo ambiental",
+      "Transferencia tecnológica",
+      "Optimización de recursos"
+    ],
+    "entities": [
+      "Región del Maule",
+      "Laboratorio Tecnológico de Optimización y Monitoreo de Recurso Hídrico",
+      "Centro C+"
+    ]
+  },
+  {
+    "id": "3Er0-GJGy4c",
+    "summary": "Encuentro internacional entre el Centro C+ y la Universidad de California Santa Bárbara para analizar los desafíos ambientales en Chile. Los estudiantes exploraron técnicas de monitoreo ambiental y discutieron cómo integrar las ciencias sociales en la resolución de problemas ecológicos complejos.",
+    "keywords": [
+      "Monitoreo ambiental",
+      "Ciencias ambientales",
+      "Interdisciplinariedad",
+      "Cooperación internacional"
+    ],
+    "entities": [
+      "Centro C+",
+      "Universidad de California Santa Bárbara (UCSB)",
+      "Departamento de Global Studies",
+      "Chile"
+    ]
+  },
+  {
+    "id": "VXewjcfvLZw",
+    "summary": "Conversatorio sobre la intersección entre materiales de construcción y accesibilidad universal liderado por la investigadora Claudia Valderrama. El evento destaca la importancia de integrar perfiles multidisciplinarios para resolver desafíos habitacionales para personas con discapacidad y adultos mayores.",
+    "keywords": [
+      "Accesibilidad",
+      "Materiales de construcción",
+      "FONDECYT",
+      "Inclusión habitacional"
+    ],
+    "entities": [
+      "Xtreme Access Lab",
+      "Centro C+",
+      "Claudia Valderrama",
+      "FONDECYT 11220460"
+    ]
+  },
+  {
+    "id": "Hlx2ie1rssw",
+    "summary": "Charla sobre la reinvención de la innovación corporativa organizada por UDDVentures y el Centro C+. Se analizan los pasos críticos para los gestores de innovación y la necesidad de vincular la investigación académica con los contextos reales de las empresas.",
+    "keywords": [
+      "Innovación corporativa",
+      "Gestión de proyectos",
+      "Vinculación universidad-empresa"
+    ],
+    "entities": [
+      "UDDVentures",
+      "Centro C+",
+      "Facultad de Ingeniería UDD"
+    ]
+  },
+  {
+    "id": "_BlZsfBCcZg",
+    "summary": "Colaboración entre el Centro C+ y el SMI para implementar herramientas de planificación en sistemas inteligentes de suministro de agua. El proyecto se enfoca en integrar diversas fuentes hídricas para abastecer a comunidades aisladas y zonas con alta influencia de actividad minera.",
+    "keywords": [
+      "Suministro de agua",
+      "Minería sostenible",
+      "Planificación hídrica",
+      "Sistemas inteligentes"
+    ],
+    "entities": [
+      "Sustainable Minerals Institute (SMI)",
+      "Centro C+",
+      "Puchuncaví",
+      "Quintero",
+      "Región de Tarapacá"
+    ]
+  }
+]

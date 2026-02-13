@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mzNFuuz1M1U",
+    "summary": "Josefa Araya, terapeuta ocupacional e investigadora en el Centro C+, desarrolla tecnologías de asistencia inclusivas para personas con discapacidad en contextos rurales. Destacan proyectos como el diseño de una silla de ruedas todoterreno y la creación de dispositivos de bajo costo en colaboración con el Instituto Nacional de Rehabilitación Pedro Aguirre Cerda.",
+    "keywords": ["Tecnología inclusiva", "Accesibilidad extrema", "Terapia ocupacional", "Discapacidad física"],
+    "entities": ["Josefa Araya", "Centro C+", "Universidad del Desarrollo", "Instituto Nacional de Rehabilitación Pedro Aguirre Cerda", "Silla de ruedas todoterreno"]
+  },
+  {
+    "id": "FVJGuJRUxqw",
+    "summary": "La Feria de Ciencias y Tecnología 2025 de la UDD presentó prototipos innovadores desarrollados por estudiantes de primeros años para resolver desafíos reales. Los proyectos incluyeron sistemas de riego eficiente y dispositivos de salud, fabricados mediante impresión 3D y programación en Arduino.",
+    "keywords": ["Prototipado", "Innovación estudiantil", "Fabricación digital", "Ingeniería"],
+    "entities": ["Facultad de Ingeniería UDD", "Arduino", "ESP32", "Impresión 3D", "Chile"]
+  },
+  {
+    "id": "wjOiTz5eGqY",
+    "summary": "El Encuentro Nacional de Monitoreo y Sensores 2025 reunió a expertos para discutir el uso de redes de sensores de bajo costo en la medición de la calidad del aire y agua. Se destacó la red HIRI, una infraestructura de datos abiertos para el monitoreo de particulado fino en tiempo real en zonas industriales chilenas.",
+    "keywords": ["Sensores ambientales", "Calidad del aire", "Ciencia ciudadana", "Salud ambiental"],
+    "entities": ["Red HIRI", "Encuentro Nacional de Monitoreo y Sensores", "Chile", "Políticas públicas"]
+  },
+  {
+    "id": "xa8H2iQQW-s",
+    "summary": "Niamh Gurrin, investigadora de la Universidad de Edimburgo, realizó una pasantía en el Centro C+ enfocada en la gobernanza ambiental y la percepción social de la minería de litio. Su trabajo en el proyecto OASIS destaca la integración de saberes locales con datos científicos para una gestión hídrica más resiliente.",
+    "keywords": ["Gobernanza ambiental", "Minería de litio", "Recursos hídricos", "Interdisciplina"],
+    "entities": ["Niamh Gurrin", "Universidad de Edimburgo", "Centro C+", "Proyecto OASIS", "Chile"]
+  },
+  {
+    "id": "i_Vq3BsBkiY",
+    "summary": "El Technology Bootcamp en Puerto Varas reunió a jóvenes de enseñanza media para prototipar soluciones tecnológicas orientadas a la preservación de lagos y manejo de residuos. Los estudiantes aplicaron Design Thinking y robótica para crear dispositivos de detección de contaminantes en agua.",
+    "keywords": ["Bootcamp tecnológico", "Educación STEM", "Preservación ambiental", "Robótica"],
+    "entities": ["Maker Campus UDD", "Puerto Varas", "Región de Los Lagos", "Design Thinking"]
+  },
+  {
+    "id": "a3-ZNL-jZJA",
+    "summary": "Javiera de La Fuente investiga la biodiversidad en ambientes extremos mediante el desarrollo de sensores autónomos biomiméticos. Estos dispositivos están diseñados para monitorear el retroceso glaciar y la disponibilidad hídrica bajo condiciones climáticas severas sin intervenir agresivamente el ecosistema.",
+    "keywords": ["Ambientes extremos", "Monitoreo de glaciares", "Biomimética", "Sensores autónomos"],
+    "entities": ["Javiera de La Fuente", "Centro C+", "Facultad de Ingeniería UDD", "Glaciares"]
+  },
+  {
+    "id": "xwCL_yXMSqk",
+    "summary": "Este proyecto estratégico del Centro C+ busca prevenir la formación de drenaje ácido de mina mediante la pasivación de sulfuros en depósitos de relaves. La iniciativa utiliza recubrimientos reactivos para encapsular minerales, promoviendo una minería más verde y segura para las comunidades.",
+    "keywords": ["Minería sostenible", "Relaves mineros", "Pasivación de sulfuros", "Drenaje ácido"],
+    "entities": ["Centro C+", "Chile", "Minería verde", "Pasivos ambientales"]
+  },
+  {
+    "id": "BWEJRUsRntQ",
+    "summary": "Investigación en el Humedal Lagunillas orientada a cuantificar el secuestro de carbono y la emisión de gases de efecto invernadero mediante torres de flujo. El proyecto busca generar datos científicos para respaldar la conservación de humedales como sumideros críticos de carbono en la lucha contra el cambio climático.",
+    "keywords": ["Secuestro de carbono", "Humedales", "Cambio climático", "Gases de efecto invernadero"],
+    "entities": ["Humedal Lagunillas", "Centro C+", "SMI ICE Chile", "Torres de flujo"]
+  },
+  {
+    "id": "5-O7JC1F0Yw",
+    "summary": "El proyecto desarrolla herramientas de planificación y una plataforma digital para la gestión local del agua en comunidades rurales afectadas por la megasequía. Se enfoca en la gobernanza comunitaria, permitiendo a los vecinos modelar escenarios hídricos y tomar decisiones informadas para asegurar el consumo humano.",
+    "keywords": ["Crisis hídrica", "Gestión del agua", "Resiliencia comunitaria", "Gobernanza"],
+    "entities": ["SMI ICE Chile", "Centro C+", "Chile central", "Plataforma digital"]
+  },
+  {
+    "id": "bZCbWcfBGlU",
+    "summary": "Estudiantes de Enfermería UDD participaron en un curso de tecnologías disruptivas para explorar el impacto de la robótica y la IA en el cuidado de pacientes. La colaboración interdisciplinaria permitió diseñar soluciones para el monitoreo remoto y la rehabilitación física asistida.",
+    "keywords": ["Salud digital", "Interdisciplina", "Robótica médica", "IA en salud"],
+    "entities": ["Facultad de Ingeniería UDD", "Enfermería UDD", "Inteligencia Artificial", "Robótica"]
+  },
+  {
+    "id": "icTmwPFg7Kg",
+    "summary": "El Centro C+ coordina el Encuentro por la Biodiversidad (ExB 2025) junto a Ladera Sur y Travolution para integrar ciencia, turismo sustentable y conservación. El evento busca generar impacto en los territorios mediante la innovación y soluciones basadas en la naturaleza.",
+    "keywords": ["Conservación", "Turismo sustentable", "Biodiversidad", "Gobernanza ambiental"],
+    "entities": ["Centro C+", "ExB 2025", "Ladera Sur", "Travolution"]
+  },
+  {
+    "id": "txOE-p0SxNc",
+    "summary": "Felipe Vicencio lidera investigaciones sobre valorización de residuos industriales dentro del marco de la economía circular. El trabajo incluye la extracción de metales de chatarra electrónica y la transformación de escorias mineras en materiales de construcción sustentables.",
+    "keywords": ["Economía circular", "Valorización de residuos", "E-waste", "Minería"],
+    "entities": ["Felipe Vicencio", "Centro C+", "Residuos industriales", "Materiales de construcción"]
+  },
+  {
+    "id": "W9mvR55vCSU",
+    "summary": "Los tutores del Maker Campus UDD lideran proyectos de I+D que incluyen robótica submarina, prótesis 3D y monitoreo ambiental remoto. Su labor se basa en el enfoque de 'aprender haciendo', guiando a estudiantes en la creación de soluciones tecnológicas con impacto social.",
+    "keywords": ["Maker Campus", "Mentoria", "Innovación aplicada", "Prototipado"],
+    "entities": ["Maker Campus UDD", "Centro C+", "Robótica submarina", "Prótesis 3D"]
+  },
+  {
+    "id": "8P2p_iIq3E0",
+    "summary": "El Panel 7 de ExB 2025 abordó la importancia de la divulgación científica para la conservación de la biodiversidad. Se discutieron estrategias para transformar datos complejos en narrativas inspiradoras a través de documentales y plataformas digitales para sensibilizar al público.",
+    "keywords": ["Divulgación científica", "Conservación", "Comunicación", "Cultura ambiental"],
+    "entities": ["ExB 2025", "Universidad del Desarrollo", "Biodiversidad", "Medios de comunicación"]
+  },
+  {
+    "id": "V_yYk6k3X_U",
+    "summary": "Expertos discutieron cómo las tecnologías digitales como drones e IA potencian las soluciones basadas en la naturaleza para la restauración de ecosistemas. Se presentaron casos de monitoreo satelital y sensores inteligentes aplicados a la gestión hídrica y reforestación.",
+    "keywords": ["Infraestructura verde", "IA", "Drones", "Restauración ecológica"],
+    "entities": ["ExB 2025", "Inteligencia Artificial", "Drones", "Monitoreo satelital"]
+  },
+  {
+    "id": "iAVxVUmWjLo",
+    "summary": "Gabriel de Souza presentó una charla magistral sobre la valoración del 'capital natural' desde una perspectiva social y antropológica. Su propuesta destaca al turismo como un puente para la valorización territorial basado en el respeto a las identidades locales y la sostenibilidad.",
+    "keywords": ["Capital natural", "Turismo sustentable", "Socioecología", "Valoración territorial"],
+    "entities": ["Gabriel de Souza", "ExB 2025", "Universidad del Desarrollo", "Capital natural"]
+  },
+  {
+    "id": "7GUFSPeWg7g",
+    "summary": "El Panel 5 analizó modelos de gobernanza comunitaria para la creación y gestión de áreas protegidas. Se enfatizó la necesidad de decisiones descentralizadas y vinculantes que integren el bienestar socioeconómico con la conservación efectiva del territorio.",
+    "keywords": ["Gobernanza", "Desarrollo territorial", "Comunidades locales", "Áreas protegidas"],
+    "entities": ["ExB 2025", "Chile", "Argentina", "Reservas de la biósfera"]
+  },
+  {
+    "id": "IDFG6h7jHEM",
+    "summary": "Este panel exploró los desafíos de la conservación privada en Chile bajo la nueva Ley SBAP. Se discutió la necesidad de incentivos tributarios y financieros, además del papel del turismo de intereses especiales para la sustentabilidad económica de los predios protegidos.",
+    "keywords": ["Conservación privada", "Ley SBAP", "Incentivos", "Sustentabilidad"],
+    "entities": ["ExB 2025", "Ley SBAP", "Servicio de Biodiversidad y Áreas Protegidas", "Chile"]
+  },
+  {
+    "id": "7KY_VWP0mRY",
+    "summary": "Líderes indígenas compartieron la visión de 'Itrofill Mongen' (biodiversidad integral) y la importancia del vínculo espiritual con la tierra. Se destacó el caso del Humedal de Moncul como ejemplo de conservación liderada por la comunidad y el turismo con identidad cultural.",
+    "keywords": ["Saberes ancestrales", "Itrofill Mongen", "Turismo comunitario", "Identidad cultural"],
+    "entities": ["ExB 2025", "Humedal de Moncul", "Sitio Ramsar", "Pueblos indígenas"]
+  },
+  {
+    "id": "67czJ6qTm7A",
+    "summary": "Petra Wallem Stein explica la línea de socioecología del Proyecto OASIS, que vincula las acciones humanas con procesos micro y macroecológicos. La investigación utiliza especies bioindicadoras para monitorear la calidad y disponibilidad hídrica en sistemas de salares.",
+    "keywords": ["Socioecología", "Bioindicadores", "Gestión hídrica", "Salares"],
+    "entities": ["Petra Wallem Stein", "Proyecto OASIS", "CONAF", "Parque Nacional"]
+  }
+]

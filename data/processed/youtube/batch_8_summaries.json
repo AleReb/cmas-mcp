@@ -1,0 +1,140 @@
+[
+  {
+    "id": "BqumzGc7gtY",
+    "summary": "Firma de un convenio entre la Facultad de Ingeniería y SMI-ICE Chile para colaborar en proyectos de sustentabilidad minera y gestión hídrica. Se destaca el proyecto 'Tusk' para el monitoreo ambiental y tratamiento de residuos en la región de Tarapacá.",
+    "keywords": ["sustentabilidad minera", "recursos hídricos", "monitoreo ambiental", "biodigestores"],
+    "entities": ["Facultad de Ingeniería", "SMI-ICE Chile", "Universidad de Queensland", "Tarapacá", "proyecto Tusk"]
+  },
+  {
+    "id": "MEj8o08GQkI",
+    "summary": "La Universidad del Desarrollo (UDD) actuó como sede del Simposio de Geología Isotópica Latinoamericano en 2018. El evento reunió a expertos internacionales para discutir avances en el estudio de isótopos en rocas y fluidos terrestres.",
+    "keywords": ["geología isotópica", "isótopos químicos", "investigación geológica", "simposio internacional"],
+    "entities": ["UDD (Universidad del Desarrollo)", "Simposio de Geología Isotópica Latinoamericano"]
+  },
+  {
+    "id": "qJMDPRsiyS0",
+    "summary": "El proyecto EnvirO inicia su fase de ejecución tras adquirir equipamiento de alta tecnología para el monitoreo de aire, agua y suelos. La plataforma busca mejorar la rigurosidad de los datos ambientales para sustentar decisiones científicas y políticas públicas.",
+    "keywords": ["monitoreo ambiental", "calidad del aire", "sensores de bajo costo", "ciencia de datos"],
+    "entities": ["EnvirO (EnviroHealth Data Observatory)", "Quintero", "laboratorios móviles"]
+  },
+  {
+    "id": "gJv9tK0v1zM",
+    "summary": "Estudiantes y profesores presentan soluciones innovadoras con impacto social en la Feria de Ciencias y Tecnología 2022. Los proyectos abordan temáticas críticas como la sustentabilidad y el consumo eficiente del agua mediante tecnología de bajo costo.",
+    "keywords": ["innovación tecnológica", "sustentabilidad", "gestión del agua", "educación científica"],
+    "entities": ["Facultad de Ingeniería", "Feria de Ciencias y Tecnología 2022"]
+  },
+  {
+    "id": "76nHUU8gXmo",
+    "summary": "Jouko Kyllönen, ex-directivo de Nokia, comparte su transición hacia el desarrollo de tecnologías ambientales para la obtención de agua potable a partir de la humedad del aire. El proyecto destaca por su enfoque modular y su potencial aplicación en zonas con escasez hídrica en Chile.",
+    "keywords": ["condensación de agua", "tecnología ambiental", "sistemas modulares", "escasez hídrica"],
+    "entities": ["Jouko Kyllönen", "Nokia", "Chile", "Finlandia", "MIT"]
+  },
+  {
+    "id": "PkDFSo8oLm0",
+    "summary": "El investigador Sebastián Diez discute el uso de instrumentos de bajo costo para medir la contaminación atmosférica y democratizar la información ambiental. Se enfatiza la importancia de conectar la ciencia de datos con la fenomenología física para mejorar la toma de decisiones locales.",
+    "keywords": ["contaminación atmosférica", "sensores de bajo costo", "ciencia de datos", "democratización de la información"],
+    "entities": ["Sebastián Diez", "Universidad de York", "Concepción", "Facultad de Ingeniería", "Córdoba (Argentina)"]
+  },
+  {
+    "id": "c7v2rIcdm2U",
+    "summary": "Investigadores del centro C+ monitorean la calidad del agua en el Cajón del Maipo para establecer una línea base frente al cambio climático y actividades humanas. El proyecto integra ciencia ciudadana, permitiendo que voluntarios locales participen en la toma e interpretación de datos hídricos.",
+    "keywords": ["calidad del agua", "ciencia ciudadana", "cuenca del Maipo", "monitoreo hídrico"],
+    "entities": ["C+", "Cajón del Maipo", "Santiago", "río Maipo"]
+  },
+  {
+    "id": "D-LkzkUyNeU",
+    "summary": "Sebastián Diez lidera una campaña de medición de material particulado en ciudades afectadas por la quema de madera húmeda. Se promueve el uso de redes de sensores de bajo costo para identificar puntos calientes de contaminación y proteger la salud pública.",
+    "keywords": ["material particulado", "sensores de bajo costo", "contaminación intradomiciliaria", "salud pública"],
+    "entities": ["Sebastián Diez", "Universidad de York", "Latinoamérica"]
+  },
+  {
+    "id": "HpR-dEQpEJs",
+    "summary": "Desarrollo de una placa microcontroladora basada en Arduino diseñada específicamente para personas con discapacidad visual. El sistema utiliza reconocimiento de imágenes y retroalimentación de voz para permitir la creación autónoma de circuitos electrónicos.",
+    "keywords": ["inclusión tecnológica", "Arduino", "discapacidad visual", "accesibilidad"],
+    "entities": ["Vicente Lorca", "Sebastián Adonay", "Extremo Access", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "ROQdyPGjLm0",
+    "summary": "Charla motivacional dirigida a estudiantes en Las Condes sobre el rol de la innovación y la investigación aplicada en la resolución de problemas sociales.",
+    "keywords": ["innovación social", "charla motivacional", "educación", "investigación aplicada"],
+    "entities": ["C+", "Dirección de Innovación UDD", "Las Condes"]
+  },
+  {
+    "id": "pDpAdrdOvk4",
+    "summary": "La Dirección de Innovación presenta sus metas para 2022, centradas en la consolidación de nodos tecnológicos y nuevos laboratorios de investigación. Se busca fortalecer la integración de tecnología en el currículum escolar y aumentar el impacto regional de sus proyectos.",
+    "keywords": ["gestión de la innovación", "nodos tecnológicos", "laboratorios de investigación", "educación tecnológica"],
+    "entities": ["Dirección de Innovación", "Maker Campus", "C+", "UDD"]
+  },
+  {
+    "id": "klDZSTTC-ME",
+    "summary": "Impacto UDD se propone para 2022 consolidarse como una unidad de proyectos sociales integrales mediante el aprendizaje experiencial. La iniciativa vincula a estudiantes con necesidades reales del entorno para fomentar una ingeniería con propósito social.",
+    "keywords": ["responsabilidad social", "aprendizaje servicio", "proyectos comunitarios", "ingeniería social"],
+    "entities": ["Impacto UDD", "Facultad de Ingeniería"]
+  },
+  {
+    "id": "epohd9qtuLM",
+    "summary": "Invitación a talleres gratuitos de la Academia Tecnológica sobre Internet de las Cosas (IoT) en Concepción. El enfoque práctico permite a la industria local aprender sobre captura de datos mediante sensores y comunicación inalámbrica.",
+    "keywords": ["IoT (Internet de las Cosas)", "sensores", "comunicación inalámbrica", "transferencia tecnológica"],
+    "entities": ["Facultad de Ingeniería UDD", "Concepción", "Academia Tecnológica"]
+  },
+  {
+    "id": "PACSsyMWIWg",
+    "summary": "Un equipo del Centro de Tecnologías para la Sociedad utiliza la plataforma EnvirO para medir la calidad del aire, agua y suelos en zonas industriales costeras. El proyecto busca generar datos precisos sobre el impacto del material particulado en estas comunidades.",
+    "keywords": ["monitoreo ambiental", "zona costera", "calidad del aire", "contaminantes industriales"],
+    "entities": ["Centro de Tecnologías para la Sociedad", "EnvirO", "Dirección de Innovación UDD"]
+  },
+  {
+    "id": "cszq-tl_waM",
+    "summary": "Iniciativa que aplica tecnologías de realidad extendida para mejorar los procesos de rehabilitación física y psicológica en niños atendidos por Coaniquem. El proyecto destaca el uso de la innovación tecnológica con fines humanitarios.",
+    "keywords": ["realidad extendida", "rehabilitación infantil", "innovación humanitaria", "tecnologías inmersivas"],
+    "entities": ["Dirección de Innovación", "Coaniquem"]
+  },
+  {
+    "id": "0JPsI9prN90",
+    "summary": "El campamento tecnológico MakerCamp motiva a estudiantes a experimentar con impresión 3D, programación en Arduino y robótica. El evento fomenta la creatividad y el aprendizaje colaborativo para resolver desafíos mediante tecnología.",
+    "keywords": ["impresión 3D", "Arduino", "robótica educativa", "culture maker"],
+    "entities": ["MakerCamp 2021", "Dirección de Innovación UDD"]
+  },
+  {
+    "id": "IQmmXL-Hywg",
+    "summary": "Sesión de capacitación y puertas abiertas para profesores de Las Condes enfocada en la integración de tecnologías en el aula. El objetivo es fortalecer las competencias tecnológicas de los docentes para mejorar la enseñanza científica.",
+    "keywords": ["capacitación docente", "educación STEM", "laboratorios abiertos", "tecnología educativa"],
+    "entities": ["Corporación de Educación de Las Condes", "Facultad de Ingeniería UDD"]
+  },
+  {
+    "id": "996qBX9aVV4",
+    "summary": "Camilo Rodríguez-Beltrán explica el modelo flexible y modular de los grupos de investigación y desarrollo que lidera. Se enfatiza la interdisciplinariedad y la descentralización para generar soluciones tecnológicas con impacto real en la sociedad.",
+    "keywords": ["investigación y desarrollo (I+D)", "interdisciplina", "descentralización", "transferencia tecnológica"],
+    "entities": ["Camilo Rodríguez-Beltrán", "Facultad de Ingeniería UDD", "Santiago", "Concepción"]
+  },
+  {
+    "id": "sFKzQEMyg_E",
+    "summary": "Demostración de una aplicación de realidad aumentada desarrollada para el Museo Nacional de Historia Natural (MNHN). La herramienta permite visualizar contenidos educativos e históricos de forma interactiva para los visitantes.",
+    "keywords": ["realidad aumentada", "educación museográfica", "aplicaciones móviles", "patrimonio natural"],
+    "entities": ["MNHN (Museo Nacional de Historia Natural)"]
+  },
+  {
+    "id": "xh8sAJTrjRY",
+    "summary": "Video promocional sobre la implementación de realidad aumentada en las exhibiciones del Museo Nacional de Historia Natural. La tecnología busca modernizar la experiencia del usuario y acercar la ciencia a un público más amplio.",
+    "keywords": ["realidad aumentada", "divulgación científica", "museografía digital", "interacción"],
+    "entities": ["MNHN (Museo Nacional de Historia Natural)"]
+  },
+  {
+    "id": "Wq1ik3Gqm_0",
+    "summary": "Presentación del Laboratorio Tecnológico para la Competitividad, orientado a reducir brechas tecnológicas en pymes agrícolas e industriales del Biobío. La iniciativa ofrece infraestructura de I+D y capacitación para mejorar la sobrevivencia económica frente a cambios regulatorios.",
+    "keywords": ["competitividad pyme", "transferencia tecnológica", "I+D aplicado", "Región del Biobío"],
+    "entities": ["Laboratorio Tecnológico para la Competitividad", "Región del Biobío"]
+  },
+  {
+    "id": "0i6Th-8rwPY",
+    "summary": "Introducción en inglés al Observatorio de Datos de Salud Ambiental (EnvirO), enfocado en la mitigación de efectos adversos del entorno. La plataforma estandariza sensores para medir aire, agua y suelo, promoviendo la ciencia ciudadana y la investigación colaborativa.",
+    "keywords": ["environmental health", "data observatory", "sensor calibration", "citizen science"],
+    "entities": ["EnvirO (EnviroHealth Data Observatory)"]
+  },
+  {
+    "id": "EKVLM5sUpn8",
+    "summary": "El Observatorio de Datos de Salud Ambiental (EnvirO) busca mejorar la información ambiental mediante sensores robustos y calibrados. La iniciativa une a científicos, empresas y comunidades para entender fenómenos ambientales dinámicos en Chile.",
+    "keywords": ["salud ambiental", "monitoreo de sensores", "ciencia ciudadana", "datos ambientales"],
+    "entities": ["EnvirO (EnviroHealth Data Observatory)"]
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "12-Gu9p1G-k",
+    "summary": "Lanzamiento de un ambicioso plan de monitoreo ambiental comunitario para la puesta en valor del territorio de Pampa Lagunillas. El proyecto integra conocimientos científicos y saberes ancestrales Aymara para evaluar el impacto de la minería en el bofedal y la laguna.",
+    "keywords": [
+      "Monitoreo Ambiental",
+      "Hidrogeología",
+      "Bofedal",
+      "Gestión Comunitaria",
+      "Minería"
+    ],
+    "entities": [
+      "Pampa Lagunillas",
+      "Comunidad Aymara",
+      "Minera Cerro Colorado",
+      "Centro C+",
+      "Petra Bem",
+      "Milagros Gutiérrez",
+      "Maminia"
+    ]
+  },
+  {
+    "id": "fYXODbBf7zY",
+    "summary": "El encuentro RedBiolac 2024 reúne a expertos latinoamericanos en digestión anaerobia para discutir avances en sistemas de pequeña escala y aplicaciones agrícolas. El evento busca fortalecer una red de colaboración en Chile que impulse los desafíos tecnológicos en biogestión y agricultura regenerativa.",
+    "keywords": [
+      "Digestión Anaerobia",
+      "Biogestión",
+      "Agricultura Regenerativa",
+      "Biofertilizantes"
+    ],
+    "entities": [
+      "RedBiolac",
+      "Chile",
+      "Latinoamérica"
+    ]
+  },
+  {
+    "id": "o6ThYEcHVh8",
+    "summary": "Docentes del Liceo Amanda Labarca visitan el Maker Campus de la UDD para capacitarse en tecnologías emergentes como inteligencia artificial y realidad aumentada. El objetivo es proporcionar herramientas digitales prácticas que modernicen los procesos de enseñanza y respondan a las necesidades del siglo XXI.",
+    "keywords": [
+      "Inteligencia Artificial",
+      "Realidad Aumentada",
+      "Impresión 3D",
+      "Innovación Educativa"
+    ],
+    "entities": [
+      "Liceo Amanda Labarca",
+      "Maker Campus UDD",
+      "Facultad de Ingeniería"
+    ]
+  },
+  {
+    "id": "nkE-p28lfWk",
+    "summary": "El VIII Foro del Litio analizó los pasos clave para intensificar la explotación de este mineral en Chile, subrayando la importancia de la consulta indígena y la licencia social. Se destacó la colaboración entre academia, gobierno y empresas para desarrollar una industria del litio ambientalmente sustentable.",
+    "keywords": [
+      "Litio",
+      "Sustentabilidad",
+      "Consulta Indígena",
+      "Electromovilidad",
+      "Políticas Públicas"
+    ],
+    "entities": [
+      "Foro del Litio",
+      "ENAMI",
+      "Chile",
+      "Comunidades Indígenas"
+    ]
+  },
+  {
+    "id": "4YvIt0unMAw",
+    "summary": "Explicación detallada sobre el recorrido de los residuos en Chile, destacando la diferencia entre materiales orgánicos e inorgánicos y los problemas de los rellenos sanitarios. Se promueve la valorización de residuos a través del compostaje, la biodigestión y la implementación de la Ley REP.",
+    "keywords": [
+      "Gestión de Residuos",
+      "Economía Circular",
+      "Ley REP",
+      "Compostaje",
+      "Sustentabilidad"
+    ],
+    "entities": [
+      "Chile",
+      "Grupo de Diagnósticos Modulares C+",
+      "Estrategia Nacional de Residuos Orgánicos"
+    ]
+  },
+  {
+    "id": "ZtxK_mj2JdA",
+    "summary": "Presentación del Diplomado en Aprendizaje Maker con enfoque STEAM, que busca integrar metodologías de 'aprender haciendo' en el aula escolar. El programa ofrece formación en didácticas y herramientas tecnológicas para que los docentes construyan el futuro de la educación.",
+    "keywords": [
+      "Enfoque STEAM",
+      "Movimiento Maker",
+      "Metodologías Educativas",
+      "Tecnología"
+    ],
+    "entities": [
+      "Facultad de Educación UDD",
+      "Facultad de Ingeniería UDD",
+      "Diplomado Maker"
+    ]
+  },
+  {
+    "id": "0gmA5LRy5HM",
+    "summary": "Anuncio de la nueva temporada del programa 'Neurópolis' en NTV/TVN, conducido por un investigador del Centro C+. El espacio explora de forma lúdica los misterios del cerebro humano, la percepción de la realidad y la creatividad.",
+    "keywords": [
+      "Neurociencia",
+      "Divulgación Científica",
+      "Creatividad",
+      "Televisión Educativa"
+    ],
+    "entities": [
+      "Neurópolis",
+      "NTV",
+      "TVN",
+      "Centro C+",
+      "Puerto Visual"
+    ]
+  },
+  {
+    "id": "6Y6_8xNa3N0",
+    "summary": "El proyecto Kuskalla desarrolla micro-biodigestores en comunidades indígenas del norte de Chile para transformar desechos animales en fertilizantes orgánicos. Además, implementa sensores de bajo costo para el monitoreo remoto de niveles de agua en sistemas de regadío tradicionales.",
+    "keywords": [
+      "Biodigestión",
+      "Bioinsumos",
+      "Sensores de Nivel",
+      "Agricultura Indígena"
+    ],
+    "entities": [
+      "Proyecto KUSKALLA",
+      "Comunidad de Macaya",
+      "Asociación Agropecuaria Indígena",
+      "Maminia"
+    ]
+  },
+  {
+    "id": "Qtu4XwTNz9w",
+    "summary": "El Grupo de Nuevos Materiales del C+ aplica tecnologías de manufactura digital para optimizar la creación de marionetas en la técnica de animación stop motion. Mediante modelado 3D e impresión en resina, logran desarrollar esqueletos articulados complejos con alta precisión artística.",
+    "keywords": [
+      "Manufactura Digital",
+      "Stop Motion",
+      "Modelado 3D",
+      "Nuevos Materiales"
+    ],
+    "entities": [
+      "Grupo de Nuevos Materiales",
+      "Centro C+",
+      "UDD"
+    ]
+  },
+  {
+    "id": "5DUBSSH8wFg",
+    "summary": "Estudiantes de séptimo básico del Liceo Amanda Labarca experimentan un taller de modelado 3D sobre microorganismos, rompiendo el esquema curricular tradicional. La intervención tecnológica del Maker Campus busca motivar a los jóvenes mediante la creación digital de bacterias y virus.",
+    "keywords": [
+      "Modelado 3D",
+      "Educación Tecnológica",
+      "Microbiología",
+      "Maker Campus"
+    ],
+    "entities": [
+      "Liceo Amanda Labarca",
+      "Maker Campus UDD"
+    ]
+  },
+  {
+    "id": "-JossB3lLFw",
+    "summary": "Investigadores del C+ inician un plan de monitoreo ambiental comunitario en Cancosa para capacitar a la comunidad en la defensa de su territorio. El proyecto enfoca sus esfuerzos en limnología, vegetación, fauna e hidrogeología tras el secamiento de la laguna y el bofedal.",
+    "keywords": [
+      "Monitoreo Comunitario",
+      "Territorio Aymara",
+      "Defensa Ambiental",
+      "Bofedales"
+    ],
+    "entities": [
+      "Cancosa",
+      "Región de Tarapacá",
+      "Pica",
+      "Grupo de Ambientes Extremos C+"
+    ]
+  },
+  {
+    "id": "0lGOIsStp7Y",
+    "summary": "La Facultad de Ingeniería UDD y CILED reciben a docentes y alumnos de regiones para una inmersión en nuevas tecnologías aplicables al aula. La iniciativa de Maker Campus busca descentralizar el acceso al conocimiento y fomentar la creatividad como herramienta de aprendizaje real.",
+    "keywords": [
+      "Descentralización",
+      "Creatividad",
+      "Educación Tecnológica",
+      "Aprendizaje Activo"
+    ],
+    "entities": [
+      "Facultad de Ingeniería UDD",
+      "CILED",
+      "Maker Campus"
+    ]
+  },
+  {
+    "id": "CRO8nRe-aUM",
+    "summary": "La estudiante neoyorquina Ella Sierra Brown realiza una pasantía de verano en el Centro C+ investigando con microscopía holográfica digital. El proyecto permite observar células vivas con un aumento avanzado, destacando el enfoque práctico y experiencial de la investigación en la UDD.",
+    "keywords": [
+      "Ingeniería Biomédica",
+      "Microscopía Holográfica",
+      "Pasantía Internacional"
+    ],
+    "entities": [
+      "Ella Sierra Brown",
+      "Instituto Politécnico Rensselaer",
+      "Centro C+",
+      "Universidad del Desarrollo"
+    ]
+  },
+  {
+    "id": "lh_cGxnzCCM",
+    "summary": "El Maker Camp 2024 desafió a estudiantes de enseñanza media en Santiago y Concepción a 'armar su propio celular'. A través del diseño 3D, electrónica y programación, los jóvenes desarrollaron habilidades clave para el mundo universitario y laboral.",
+    "keywords": [
+      "Pensamiento Computacional",
+      "Diseño 3D",
+      "Electrónica",
+      "Prototipado"
+    ],
+    "entities": [
+      "Maker Camp 2024",
+      "Sede Santiago",
+      "Sede Concepción",
+      "UDD"
+    ]
+  },
+  {
+    "id": "EVaCMLZf-bs",
+    "summary": "Cierre de la Feria de Ciencias y Tecnología 2024 donde estudiantes presentaron soluciones tecnológicas para emergencias de salud y sustentabilidad. Destacan innovaciones como detectores de humo inteligentes para hogares y plataformas de gestión de voluntarios potenciadas con IA.",
+    "keywords": [
+      "Aprendizaje Experiencial",
+      "Sensores Inteligentes",
+      "IA para Emergencias",
+      "Innovación Social"
+    ],
+    "entities": [
+      "Feria de Ciencias y Tecnología",
+      "Facultad de Ingeniería UDD",
+      "Santiago"
+    ]
+  },
+  {
+    "id": "nhTsJLVN6Zg",
+    "summary": "La organización Wheel The World realiza una charla motivacional en la UDD sobre la inclusión y el turismo accesible en deportes al aire libre. La colaboración con el Centro C+ busca desarrollar equipamiento adaptado que rompa barreras y mejore la calidad de vida de personas con discapacidad.",
+    "keywords": [
+      "Turismo Accesible",
+      "Deporte Inclusivo",
+      "Inclusión Social",
+      "Diseño Adaptado"
+    ],
+    "entities": [
+      "Wheel The World",
+      "Columbia",
+      "Centro C+",
+      "UDD"
+    ]
+  }
+]
