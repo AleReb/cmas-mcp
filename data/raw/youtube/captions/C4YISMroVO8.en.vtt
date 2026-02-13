@@ -1,0 +1,528 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.199 --> 00:00:01.949 align:start position:0%
+ 
+Today, <00:00:00.463><c>the </c><00:00:00.727><c>tools </c><00:00:00.991><c>do </c><00:00:01.255><c>not </c><00:00:01.519><c>exist</c>
+
+00:00:01.949 --> 00:00:01.959 align:start position:0%
+Today, the tools do not exist
+ 
+
+00:00:01.959 --> 00:00:03.389 align:start position:0%
+Today, the tools do not exist
+for <00:00:02.135><c>a </c><00:00:02.311><c>visually </c><00:00:02.487><c>impaired </c><00:00:02.663><c>person </c><00:00:02.839><c>to</c>
+
+00:00:03.389 --> 00:00:03.399 align:start position:0%
+for a visually impaired person to
+ 
+
+00:00:03.399 --> 00:00:04.910 align:start position:0%
+for a visually impaired person to
+develop <00:00:04.019><c>their </c><00:00:04.639><c>own</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+develop their own
+ 
+
+00:00:04.920 --> 00:00:06.630 align:start position:0%
+develop their own
+technological <00:00:06.319><c>prototypes</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+technological prototypes
+ 
+
+00:00:06.640 --> 00:00:08.589 align:start position:0%
+technological prototypes
+independently.  <00:00:07.040><c>We </c><00:00:07.440><c>have </c><00:00:07.840><c>developed </c><00:00:08.240><c>the</c>
+
+00:00:08.589 --> 00:00:08.599 align:start position:0%
+independently.  We have developed the
+ 
+
+00:00:08.599 --> 00:00:10.790 align:start position:0%
+independently.  We have developed the
+Blinduino <00:00:08.859><c>project, </c><00:00:09.119><c>which </c><00:00:09.379><c>takes </c><00:00:09.639><c>advantage </c><00:00:09.899><c>of </c><00:00:10.159><c>the </c><00:00:10.419><c>benefits </c><00:00:10.679><c>of</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+Blinduino project, which takes advantage of the benefits of
+ 
+
+00:00:10.800 --> 00:00:13.310 align:start position:0%
+Blinduino project, which takes advantage of the benefits of
+the <00:00:11.167><c>Arduino </c><00:00:11.534><c>platform, </c><00:00:11.901><c>but </c><00:00:12.268><c>adapts </c><00:00:12.635><c>it</c>
+
+00:00:13.310 --> 00:00:13.320 align:start position:0%
+the Arduino platform, but adapts it
+ 
+
+00:00:13.320 --> 00:00:15.110 align:start position:0%
+the Arduino platform, but adapts it
+with <00:00:13.709><c>specific </c><00:00:14.098><c>tools </c><00:00:14.487><c>so </c><00:00:14.876><c>that</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+with specific tools so that
+ 
+
+00:00:15.120 --> 00:00:16.710 align:start position:0%
+with specific tools so that
+people <00:00:15.440><c>with </c><00:00:15.760><c>visual </c><00:00:16.080><c>disabilities </c><00:00:16.400><c>can</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+people with visual disabilities can
+ 
+
+00:00:16.720 --> 00:00:19.070 align:start position:0%
+people with visual disabilities can
+develop <00:00:17.190><c>their </c><00:00:17.660><c>ideas </c><00:00:18.130><c>in </c><00:00:18.600><c>a</c>
+
+00:00:19.070 --> 00:00:19.080 align:start position:0%
+develop their ideas in a
+ 
+
+00:00:19.080 --> 00:00:21.310 align:start position:0%
+develop their ideas in a
+completely <00:00:19.600><c>self-taught </c><00:00:20.120><c>way.  </c><00:00:20.640><c>Arduino </c><00:00:21.160><c>is</c>
+
+00:00:21.310 --> 00:00:21.320 align:start position:0%
+completely self-taught way.  Arduino is
+ 
+
+00:00:21.320 --> 00:00:22.870 align:start position:0%
+completely self-taught way.  Arduino is
+an <00:00:21.600><c>electronic </c><00:00:21.880><c>board </c><00:00:22.160><c>to </c><00:00:22.440><c>which </c><00:00:22.720><c>you</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+an electronic board to which you
+ 
+
+00:00:22.880 --> 00:00:24.750 align:start position:0%
+an electronic board to which you
+connect <00:00:23.413><c>sensors </c><00:00:23.946><c>and </c><00:00:24.479><c>actuators,</c>
+
+00:00:24.750 --> 00:00:24.760 align:start position:0%
+connect sensors and actuators,
+ 
+
+00:00:24.760 --> 00:00:26.830 align:start position:0%
+connect sensors and actuators,
+program <00:00:25.040><c>it, </c><00:00:25.320><c>and </c><00:00:25.600><c>can </c><00:00:25.880><c>easily </c><00:00:26.160><c>build</c>
+
+00:00:26.830 --> 00:00:26.840 align:start position:0%
+program it, and can easily build
+ 
+
+00:00:26.840 --> 00:00:29.269 align:start position:0%
+program it, and can easily build
+technological <00:00:27.413><c>prototypes.  </c><00:00:27.986><c>We </c><00:00:28.559><c>identified</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+technological prototypes.  We identified
+ 
+
+00:00:29.279 --> 00:00:31.029 align:start position:0%
+technological prototypes.  We identified
+that <00:00:29.679><c>working </c><00:00:30.079><c>with </c><00:00:30.479><c>Arduino </c><00:00:30.879><c>is</c>
+
+00:00:31.029 --> 00:00:31.039 align:start position:0%
+that working with Arduino is
+ 
+
+00:00:31.039 --> 00:00:32.749 align:start position:0%
+that working with Arduino is
+highly <00:00:31.285><c>dependent </c><00:00:31.531><c>on </c><00:00:31.777><c>the </c><00:00:32.023><c>view.  </c><00:00:32.269><c>To </c><00:00:32.515><c>assemble</c>
+
+00:00:32.749 --> 00:00:32.759 align:start position:0%
+highly dependent on the view.  To assemble
+ 
+
+00:00:32.759 --> 00:00:34.110 align:start position:0%
+highly dependent on the view.  To assemble
+electronic <00:00:33.019><c>circuits, </c><00:00:33.279><c>you </c><00:00:33.539><c>need </c><00:00:33.799><c>to</c>
+
+00:00:34.110 --> 00:00:34.120 align:start position:0%
+electronic circuits, you need to
+ 
+
+00:00:34.120 --> 00:00:36.190 align:start position:0%
+electronic circuits, you need to
+identify <00:00:34.860><c>small </c><00:00:35.600><c>components,</c>
+
+00:00:36.190 --> 00:00:36.200 align:start position:0%
+identify small components,
+ 
+
+00:00:36.200 --> 00:00:37.910 align:start position:0%
+identify small components,
+small <00:00:36.820><c>letters, </c><00:00:37.440><c>identify</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+small letters, identify
+ 
+
+00:00:37.920 --> 00:00:39.670 align:start position:0%
+small letters, identify
+electronic <00:00:38.440><c>components.  </c><00:00:38.960><c>From </c><00:00:39.480><c>this,</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+electronic components.  From this,
+ 
+
+00:00:39.680 --> 00:00:41.430 align:start position:0%
+electronic components.  From this,
+we <00:00:39.891><c>identified </c><00:00:40.102><c>that </c><00:00:40.313><c>it </c><00:00:40.524><c>is </c><00:00:40.735><c>very </c><00:00:40.946><c>difficult </c><00:00:41.157><c>for</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+we identified that it is very difficult for
+ 
+
+00:00:41.440 --> 00:00:42.869 align:start position:0%
+we identified that it is very difficult for
+people <00:00:42.440><c>with</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+people with
+ 
+
+00:00:42.879 --> 00:00:44.830 align:start position:0%
+people with
+partial <00:00:43.079><c>or </c><00:00:43.279><c>total </c><00:00:43.479><c>visual </c><00:00:43.679><c>impairment </c><00:00:43.879><c>to </c><00:00:44.079><c>work </c><00:00:44.279><c>with </c><00:00:44.479><c>the</c>
+
+00:00:44.830 --> 00:00:44.840 align:start position:0%
+partial or total visual impairment to work with the
+ 
+
+00:00:44.840 --> 00:00:47.029 align:start position:0%
+partial or total visual impairment to work with the
+tool.  <00:00:45.426><c>We </c><00:00:46.012><c>then </c><00:00:46.598><c>identified</c>
+
+00:00:47.029 --> 00:00:47.039 align:start position:0%
+tool.  We then identified
+ 
+
+00:00:47.039 --> 00:00:49.350 align:start position:0%
+tool.  We then identified
+those <00:00:47.559><c>elements </c><00:00:48.079><c>that </c><00:00:48.599><c>were </c><00:00:49.119><c>more</c>
+
+00:00:49.350 --> 00:00:49.360 align:start position:0%
+those elements that were more
+ 
+
+00:00:49.360 --> 00:00:51.189 align:start position:0%
+those elements that were more
+difficult <00:00:49.853><c>for </c><00:00:50.346><c>people </c><00:00:50.839><c>with</c>
+
+00:00:51.189 --> 00:00:51.199 align:start position:0%
+difficult for people with
+ 
+
+00:00:51.199 --> 00:00:52.830 align:start position:0%
+difficult for people with
+visual <00:00:51.452><c>disabilities </c><00:00:51.705><c>to </c><00:00:51.958><c>work </c><00:00:52.211><c>with </c><00:00:52.464><c>and </c><00:00:52.717><c>began</c>
+
+00:00:52.830 --> 00:00:52.840 align:start position:0%
+visual disabilities to work with and began
+ 
+
+00:00:52.840 --> 00:00:55.389 align:start position:0%
+visual disabilities to work with and began
+working <00:00:53.226><c>on </c><00:00:53.612><c>an </c><00:00:53.998><c>adapted </c><00:00:54.384><c>card </c><00:00:54.770><c>that, </c><00:00:55.156><c>with</c>
+
+00:00:55.389 --> 00:00:55.399 align:start position:0%
+working on an adapted card that, with
+ 
+
+00:00:55.399 --> 00:00:57.229 align:start position:0%
+working on an adapted card that, with
+external <00:00:55.866><c>technologies </c><00:00:56.333><c>such </c><00:00:56.800><c>as</c>
+
+00:00:57.229 --> 00:00:57.239 align:start position:0%
+external technologies such as
+ 
+
+00:00:57.239 --> 00:01:00.069 align:start position:0%
+external technologies such as
+artificial <00:00:57.719><c>intelligence, </c><00:00:58.199><c>could </c><00:00:58.679><c>accompany </c><00:00:59.159><c>the </c><00:00:59.639><c>user</c>
+
+00:01:00.069 --> 00:01:00.079 align:start position:0%
+artificial intelligence, could accompany the user
+ 
+
+00:01:00.079 --> 00:01:01.910 align:start position:0%
+artificial intelligence, could accompany the user
+to <00:01:00.399><c>learn </c><00:01:00.719><c>in </c><00:01:01.039><c>the </c><00:01:01.359><c>same </c><00:01:01.679><c>way</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+to learn in the same way
+ 
+
+00:01:01.920 --> 00:01:04.910 align:start position:0%
+to learn in the same way
+as <00:01:02.273><c>a </c><00:01:02.626><c>person </c><00:01:02.979><c>without </c><00:01:03.332><c>a </c><00:01:03.685><c>visual </c><00:01:04.038><c>disability.</c>
+
+00:01:04.910 --> 00:01:04.920 align:start position:0%
+as a person without a visual disability.
+ 
+
+00:01:04.920 --> 00:01:06.870 align:start position:0%
+as a person without a visual disability.
+Directly <00:01:05.370><c>with </c><00:01:05.820><c>the </c><00:01:06.270><c>prototype, </c><00:01:06.720><c>the</c>
+
+00:01:06.870 --> 00:01:06.880 align:start position:0%
+Directly with the prototype, the
+ 
+
+00:01:06.880 --> 00:01:08.230 align:start position:0%
+Directly with the prototype, the
+user <00:01:07.120><c>is </c><00:01:07.360><c>able </c><00:01:07.600><c>to </c><00:01:07.840><c>develop </c><00:01:08.080><c>their</c>
+
+00:01:08.230 --> 00:01:08.240 align:start position:0%
+user is able to develop their
+ 
+
+00:01:08.240 --> 00:01:10.270 align:start position:0%
+user is able to develop their
+own <00:01:08.680><c>technological </c><00:01:09.120><c>solutions.  </c><00:01:09.560><c>We </c><00:01:10.000><c>often</c>
+
+00:01:10.270 --> 00:01:10.280 align:start position:0%
+own technological solutions.  We often
+ 
+
+00:01:10.280 --> 00:01:12.630 align:start position:0%
+own technological solutions.  We often
+find <00:01:10.719><c>that </c><00:01:11.158><c>they </c><00:01:11.597><c>have </c><00:01:12.036><c>ideas </c><00:01:12.475><c>on</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+find that they have ideas on
+ 
+
+00:01:12.640 --> 00:01:14.070 align:start position:0%
+find that they have ideas on
+how <00:01:12.986><c>to </c><00:01:13.332><c>develop </c><00:01:13.678><c>tools</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+how to develop tools
+ 
+
+00:01:14.080 --> 00:01:16.149 align:start position:0%
+how to develop tools
+that <00:01:14.626><c>will </c><00:01:15.172><c>help </c><00:01:15.718><c>them</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+that will help them
+ 
+
+00:01:16.159 --> 00:01:17.789 align:start position:0%
+that will help them
+solve <00:01:16.529><c>some </c><00:01:16.899><c>of </c><00:01:17.269><c>the </c><00:01:17.639><c>problems</c>
+
+00:01:17.789 --> 00:01:17.799 align:start position:0%
+solve some of the problems
+ 
+
+00:01:17.799 --> 00:01:19.350 align:start position:0%
+solve some of the problems
+their
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+their
+ 
+
+00:01:19.360 --> 00:01:22.030 align:start position:0%
+their
+disability <00:01:19.519><c>presents </c><00:01:19.678><c>in </c><00:01:19.837><c>their </c><00:01:19.996><c>daily </c><00:01:20.155><c>lives.  </c><00:01:20.314><c>But </c><00:01:20.473><c>we </c><00:01:20.632><c>also, </c><00:01:20.791><c>in </c><00:01:20.950><c>the </c><00:01:21.109><c>long </c><00:01:21.268><c>term, </c><00:01:21.427><c>are</c>
+
+00:01:22.030 --> 00:01:22.040 align:start position:0%
+disability presents in their daily lives.  But we also, in the long term, are
+ 
+
+00:01:22.040 --> 00:01:23.710 align:start position:0%
+disability presents in their daily lives.  But we also, in the long term, are
+orienting <00:01:22.533><c>the </c><00:01:23.026><c>tool </c><00:01:23.519><c>to</c>
+
+00:01:23.710 --> 00:01:23.720 align:start position:0%
+orienting the tool to
+ 
+
+00:01:23.720 --> 00:01:25.630 align:start position:0%
+orienting the tool to
+allow <00:01:24.063><c>them </c><00:01:24.406><c>to </c><00:01:24.749><c>learn </c><00:01:25.092><c>programming, </c><00:01:25.435><c>which</c>
+
+00:01:25.630 --> 00:01:25.640 align:start position:0%
+allow them to learn programming, which
+ 
+
+00:01:25.640 --> 00:01:28.069 align:start position:0%
+allow them to learn programming, which
+is <00:01:26.096><c>a </c><00:01:26.552><c>very </c><00:01:27.008><c>powerful </c><00:01:27.464><c>profession </c><00:01:27.920><c>in</c>
+
+00:01:28.069 --> 00:01:28.079 align:start position:0%
+is a very powerful profession in
+ 
+
+00:01:28.079 --> 00:01:29.710 align:start position:0%
+is a very powerful profession in
+other <00:01:28.292><c>sectors </c><00:01:28.505><c>of </c><00:01:28.718><c>the </c><00:01:28.931><c>world </c><00:01:29.144><c>for </c><00:01:29.357><c>people</c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+other sectors of the world for people
+ 
+
+00:01:29.720 --> 00:01:33.469 align:start position:0%
+other sectors of the world for people
+who <00:01:30.210><c>have </c><00:01:30.700><c>visual </c><00:01:31.190><c>impairments.   </c><00:01:31.680><c>We</c>
+
+00:01:33.469 --> 00:01:33.479 align:start position:0%
+who have visual impairments.   We
+ 
+
+00:01:33.479 --> 00:01:34.749 align:start position:0%
+who have visual impairments.   We
+have <00:01:33.695><c>worked </c><00:01:33.911><c>on </c><00:01:34.127><c>the </c><00:01:34.343><c>latest </c><00:01:34.559><c>prototypes</c>
+
+00:01:34.749 --> 00:01:34.759 align:start position:0%
+have worked on the latest prototypes
+ 
+
+00:01:34.759 --> 00:01:36.550 align:start position:0%
+have worked on the latest prototypes
+together <00:01:35.159><c>and </c><00:01:35.559><c>validated </c><00:01:35.959><c>them </c><00:01:36.359><c>with</c>
+
+00:01:36.550 --> 00:01:36.560 align:start position:0%
+together and validated them with
+ 
+
+00:01:36.560 --> 00:01:38.149 align:start position:0%
+together and validated them with
+foundations <00:01:36.859><c>that </c><00:01:37.158><c>work </c><00:01:37.457><c>with </c><00:01:37.756><c>people</c>
+
+00:01:38.149 --> 00:01:38.159 align:start position:0%
+foundations that work with people
+ 
+
+00:01:38.159 --> 00:01:40.270 align:start position:0%
+foundations that work with people
+with <00:01:38.669><c>visual </c><00:01:39.179><c>disabilities, </c><00:01:39.689><c>Coalivia </c><00:01:40.199><c>in</c>
+
+00:01:40.270 --> 00:01:40.280 align:start position:0%
+with visual disabilities, Coalivia in
+ 
+
+00:01:40.280 --> 00:01:41.590 align:start position:0%
+with visual disabilities, Coalivia in
+Concepción, <00:01:40.579><c>the </c><00:01:40.878><c>Luz </c><00:01:41.177><c>Foundation </c><00:01:41.476><c>in</c>
+
+00:01:41.590 --> 00:01:41.600 align:start position:0%
+Concepción, the Luz Foundation in
+ 
+
+00:01:41.600 --> 00:01:44.149 align:start position:0%
+Concepción, the Luz Foundation in
+Santiago, <00:01:42.110><c>where </c><00:01:42.620><c>with </c><00:01:43.130><c>different </c><00:01:43.640><c>profiles,</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+Santiago, where with different profiles,
+ 
+
+00:01:44.159 --> 00:01:46.350 align:start position:0%
+Santiago, where with different profiles,
+with <00:01:44.479><c>teachers </c><00:01:44.799><c>of </c><00:01:45.119><c>assistive </c><00:01:45.439><c>technology </c><00:01:45.759><c>or </c><00:01:46.079><c>with</c>
+
+00:01:46.350 --> 00:01:46.360 align:start position:0%
+with teachers of assistive technology or with
+ 
+
+00:01:46.360 --> 00:01:48.950 align:start position:0%
+with teachers of assistive technology or with
+elementary <00:01:46.719><c>and </c><00:01:47.078><c>high </c><00:01:47.437><c>school </c><00:01:47.796><c>students, </c><00:01:48.155><c>we</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+elementary and high school students, we
+ 
+
+00:01:48.960 --> 00:01:50.789 align:start position:0%
+elementary and high school students, we
+have <00:01:49.310><c>seen </c><00:01:49.660><c>how </c><00:01:50.010><c>the </c><00:01:50.360><c>tool</c>
+
+00:01:50.789 --> 00:01:50.799 align:start position:0%
+have seen how the tool
+ 
+
+00:01:50.799 --> 00:01:53.069 align:start position:0%
+have seen how the tool
+greatly <00:01:51.859><c>stimulates </c><00:01:52.919><c>their</c>
+
+00:01:53.069 --> 00:01:53.079 align:start position:0%
+greatly stimulates their
+ 
+
+00:01:53.079 --> 00:01:54.910 align:start position:0%
+greatly stimulates their
+creativity.  <00:01:53.391><c>They </c><00:01:53.703><c>are </c><00:01:54.015><c>eager </c><00:01:54.327><c>to </c><00:01:54.639><c>build</c>
+
+00:01:54.910 --> 00:01:54.920 align:start position:0%
+creativity.  They are eager to build
+ 
+
+00:01:54.920 --> 00:01:56.469 align:start position:0%
+creativity.  They are eager to build
+prototypes <00:01:55.126><c>that </c><00:01:55.332><c>solve </c><00:01:55.538><c>everyday </c><00:01:55.744><c>problems </c><00:01:55.950><c>for </c><00:01:56.156><c>them</c>
+
+00:01:56.469 --> 00:01:56.479 align:start position:0%
+prototypes that solve everyday problems for them
+ 
+
+00:01:56.479 --> 00:01:59.350 align:start position:0%
+prototypes that solve everyday problems for them
+.  <00:01:57.119><c>We </c><00:01:57.759><c>intend </c><00:01:58.399><c>to </c><00:01:59.039><c>continue</c>
+
+00:01:59.350 --> 00:01:59.360 align:start position:0%
+.  We intend to continue
+ 
+
+00:01:59.360 --> 00:02:01.350 align:start position:0%
+.  We intend to continue
+working <00:01:59.693><c>with </c><00:02:00.026><c>these </c><00:02:00.359><c>organizations,</c>
+
+00:02:01.350 --> 00:02:01.360 align:start position:0%
+working with these organizations,
+ 
+
+00:02:01.360 --> 00:02:02.709 align:start position:0%
+working with these organizations,
+providing <00:02:01.608><c>them </c><00:02:01.856><c>with </c><00:02:02.104><c>the </c><00:02:02.352><c>tool </c><00:02:02.600><c>and</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+providing them with the tool and
+ 
+
+00:02:02.719 --> 00:02:04.630 align:start position:0%
+providing them with the tool and
+ongoing <00:02:02.902><c>support </c><00:02:03.085><c>so </c><00:02:03.268><c>that </c><00:02:03.451><c>they </c><00:02:03.634><c>can </c><00:02:03.817><c>implement </c><00:02:04.000><c>it</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+ongoing support so that they can implement it
+ 
+
+00:02:04.640 --> 00:02:06.510 align:start position:0%
+ongoing support so that they can implement it
+in <00:02:05.213><c>their </c><00:02:05.786><c>courses </c><00:02:06.359><c>and</c>
+
+00:02:06.510 --> 00:02:06.520 align:start position:0%
+in their courses and
+ 
+
+00:02:06.520 --> 00:02:08.910 align:start position:0%
+in their courses and
+reach <00:02:07.239><c>an </c><00:02:07.958><c>increasingly </c><00:02:08.677><c>wider</c>
+
+00:02:08.910 --> 00:02:08.920 align:start position:0%
+reach an increasingly wider
+ 
+
+00:02:08.920 --> 00:02:12.879 align:start position:0%
+reach an increasingly wider
+group <00:02:09.239><c>of </c><00:02:09.558><c>students.  </c><00:02:09.877><c>Oh.</c>
+

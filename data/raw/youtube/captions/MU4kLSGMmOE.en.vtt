@@ -1,0 +1,352 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:06.680 --> 00:00:08.890 align:start position:0%
+ 
+Today <00:00:07.000><c>we're </c><00:00:07.320><c>going </c><00:00:07.640><c>to </c><00:00:07.960><c>work </c><00:00:08.280><c>on</c>
+
+00:00:08.890 --> 00:00:08.900 align:start position:0%
+Today we're going to work on
+ 
+
+00:00:08.900 --> 00:00:11.450 align:start position:0%
+Today we're going to work on
+assembling <00:00:09.286><c>an </c><00:00:09.672><c>Arduino </c><00:00:10.058><c>board, </c><00:00:10.444><c>like </c><00:00:10.830><c>the </c><00:00:11.216><c>ones</c>
+
+00:00:11.450 --> 00:00:11.460 align:start position:0%
+assembling an Arduino board, like the ones
+ 
+
+00:00:11.460 --> 00:00:12.470 align:start position:0%
+assembling an Arduino board, like the ones
+they've <00:00:11.659><c>worked </c><00:00:11.858><c>with </c><00:00:12.057><c>before.</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+they've worked with before.
+ 
+
+00:00:12.480 --> 00:00:14.810 align:start position:0%
+they've worked with before.
+But <00:00:12.797><c>how </c><00:00:13.114><c>do </c><00:00:13.431><c>we </c><00:00:13.748><c>start </c><00:00:14.065><c>designing </c><00:00:14.382><c>it </c><00:00:14.699><c>from</c>
+
+00:00:14.810 --> 00:00:14.820 align:start position:0%
+But how do we start designing it from
+ 
+
+00:00:14.820 --> 00:00:17.269 align:start position:0%
+But how do we start designing it from
+scratch <00:00:15.140><c>and </c><00:00:15.460><c>then </c><00:00:15.780><c>program </c><00:00:16.100><c>something </c><00:00:16.420><c>on </c><00:00:16.740><c>it—a</c>
+
+00:00:17.269 --> 00:00:17.279 align:start position:0%
+scratch and then program something on it—a
+ 
+
+00:00:17.279 --> 00:00:19.189 align:start position:0%
+scratch and then program something on it—a
+playful <00:00:17.699><c>experience, </c><00:00:18.119><c>a </c><00:00:18.539><c>kind </c><00:00:18.959><c>of</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+playful experience, a kind of
+ 
+
+00:00:19.199 --> 00:00:21.830 align:start position:0%
+playful experience, a kind of
+game <00:00:19.439><c>with </c><00:00:19.679><c>the </c><00:00:19.919><c>LED </c><00:00:20.159><c>matrix? </c><00:00:20.399><c>We </c><00:00:20.639><c>want </c><00:00:20.879><c>them </c><00:00:21.119><c>to</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+game with the LED matrix? We want them to
+ 
+
+00:00:21.840 --> 00:00:23.330 align:start position:0%
+game with the LED matrix? We want them to
+finish <00:00:22.185><c>this </c><00:00:22.530><c>workshop </c><00:00:22.875><c>with </c><00:00:23.220><c>something</c>
+
+00:00:23.330 --> 00:00:23.340 align:start position:0%
+finish this workshop with something
+ 
+
+00:00:23.340 --> 00:00:25.310 align:start position:0%
+finish this workshop with something
+tangible, <00:00:23.880><c>something </c><00:00:24.420><c>functional, </c><00:00:24.960><c>but</c>
+
+00:00:25.310 --> 00:00:25.320 align:start position:0%
+tangible, something functional, but
+ 
+
+00:00:25.320 --> 00:00:27.109 align:start position:0%
+tangible, something functional, but
+starting <00:00:25.656><c>from </c><00:00:25.992><c>practically </c><00:00:26.328><c>nothing, </c><00:00:26.664><c>from </c><00:00:27.000><c>the</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+starting from practically nothing, from the
+ 
+
+00:00:27.119 --> 00:00:28.970 align:start position:0%
+starting from practically nothing, from the
+most <00:00:27.494><c>basic </c><00:00:27.869><c>elements, </c><00:00:28.244><c>without </c><00:00:28.619><c>a</c>
+
+00:00:28.970 --> 00:00:28.980 align:start position:0%
+most basic elements, without a
+ 
+
+00:00:28.980 --> 00:00:30.529 align:start position:0%
+most basic elements, without a
+kind <00:00:29.420><c>of </c><00:00:29.860><c>black </c><00:00:30.300><c>box.</c>
+
+00:00:30.529 --> 00:00:30.539 align:start position:0%
+kind of black box.
+ 
+
+00:00:30.539 --> 00:00:32.210 align:start position:0%
+kind of black box.
+Understand <00:00:30.684><c>that </c><00:00:30.829><c>they </c><00:00:30.974><c>didn't </c><00:00:31.119><c>have </c><00:00:31.264><c>to </c><00:00:31.409><c>buy </c><00:00:31.554><c>a</c>
+
+00:00:32.210 --> 00:00:32.220 align:start position:0%
+Understand that they didn't have to buy a
+ 
+
+00:00:32.220 --> 00:00:34.190 align:start position:0%
+Understand that they didn't have to buy a
+pre-made <00:00:32.760><c>device; </c><00:00:33.300><c>they </c><00:00:33.840><c>were</c>
+
+00:00:34.190 --> 00:00:34.200 align:start position:0%
+pre-made device; they were
+ 
+
+00:00:34.200 --> 00:00:35.690 align:start position:0%
+pre-made device; they were
+able <00:00:34.357><c>to </c><00:00:34.514><c>assemble </c><00:00:34.671><c>it </c><00:00:34.828><c>step </c><00:00:34.985><c>by </c><00:00:35.142><c>step </c><00:00:35.299><c>from </c><00:00:35.456><c>scratch.</c>
+
+00:00:35.690 --> 00:00:35.700 align:start position:0%
+able to assemble it step by step from scratch.
+ 
+
+00:00:35.700 --> 00:00:37.370 align:start position:0%
+able to assemble it step by step from scratch.
+When <00:00:35.939><c>we </c><00:00:36.178><c>try </c><00:00:36.417><c>to </c><00:00:36.656><c>develop </c><00:00:36.895><c>any</c>
+
+00:00:37.370 --> 00:00:37.380 align:start position:0%
+When we try to develop any
+ 
+
+00:00:37.380 --> 00:00:39.290 align:start position:0%
+When we try to develop any
+electronic <00:00:37.704><c>device, </c><00:00:38.028><c>we </c><00:00:38.352><c>base </c><00:00:38.676><c>it </c><00:00:39.000><c>on</c>
+
+00:00:39.290 --> 00:00:39.300 align:start position:0%
+electronic device, we base it on
+ 
+
+00:00:39.300 --> 00:00:41.090 align:start position:0%
+electronic device, we base it on
+what <00:00:39.528><c>the </c><00:00:39.756><c>Arduino </c><00:00:39.984><c>platform </c><00:00:40.212><c>offers. </c><00:00:40.440><c>We're</c>
+
+00:00:41.090 --> 00:00:41.100 align:start position:0%
+what the Arduino platform offers. We're
+ 
+
+00:00:41.100 --> 00:00:43.010 align:start position:0%
+what the Arduino platform offers. We're
+going <00:00:41.412><c>to </c><00:00:41.724><c>assemble </c><00:00:42.036><c>an </c><00:00:42.348><c>Arduino </c><00:00:42.660><c>board</c>
+
+00:00:43.010 --> 00:00:43.020 align:start position:0%
+going to assemble an Arduino board
+ 
+
+00:00:43.020 --> 00:00:44.990 align:start position:0%
+going to assemble an Arduino board
+to <00:00:43.279><c>use </c><00:00:43.538><c>that </c><00:00:43.797><c>as </c><00:00:44.056><c>a </c><00:00:44.315><c>technological </c><00:00:44.574><c>base</c>
+
+00:00:44.990 --> 00:00:45.000 align:start position:0%
+to use that as a technological base
+ 
+
+00:00:45.000 --> 00:00:47.930 align:start position:0%
+to use that as a technological base
+to <00:00:46.320><c>program </c><00:00:47.640><c>a</c>
+
+00:00:47.930 --> 00:00:47.940 align:start position:0%
+to program a
+ 
+
+00:00:47.940 --> 00:00:49.310 align:start position:0%
+to program a
+video <00:00:48.160><c>game </c><00:00:48.380><c>console. </c><00:00:48.600><c>Finally, </c><00:00:48.820><c>they're </c><00:00:49.040><c>going </c><00:00:49.260><c>to</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+video game console. Finally, they're going to
+ 
+
+00:00:49.320 --> 00:00:50.810 align:start position:0%
+video game console. Finally, they're going to
+program <00:00:49.584><c>a </c><00:00:49.848><c>game </c><00:00:50.112><c>within </c><00:00:50.376><c>this </c><00:00:50.640><c>same</c>
+
+00:00:50.810 --> 00:00:50.820 align:start position:0%
+program a game within this same
+ 
+
+00:00:50.820 --> 00:00:53.330 align:start position:0%
+program a game within this same
+platform. <00:00:51.900><c>The </c><00:00:52.980><c>students</c>
+
+00:00:53.330 --> 00:00:53.340 align:start position:0%
+platform. The students
+ 
+
+00:00:53.340 --> 00:00:54.889 align:start position:0%
+platform. The students
+participating <00:00:53.840><c>in </c><00:00:54.340><c>today's </c><00:00:54.840><c>activity</c>
+
+00:00:54.889 --> 00:00:54.899 align:start position:0%
+participating in today's activity
+ 
+
+00:00:54.899 --> 00:00:56.689 align:start position:0%
+participating in today's activity
+don't <00:00:55.319><c>have </c><00:00:55.739><c>extensive </c><00:00:56.159><c>knowledge </c><00:00:56.579><c>of</c>
+
+00:00:56.689 --> 00:00:56.699 align:start position:0%
+don't have extensive knowledge of
+ 
+
+00:00:56.699 --> 00:00:58.310 align:start position:0%
+don't have extensive knowledge of
+programming <00:00:56.929><c>and </c><00:00:57.159><c>electronics, </c><00:00:57.389><c>so </c><00:00:57.619><c>they're </c><00:00:57.849><c>going </c><00:00:58.079><c>to</c>
+
+00:00:58.310 --> 00:00:58.320 align:start position:0%
+programming and electronics, so they're going to
+ 
+
+00:00:58.320 --> 00:01:00.830 align:start position:0%
+programming and electronics, so they're going to
+understand, <00:01:00.780><c>through</c>
+
+00:01:00.830 --> 00:01:00.840 align:start position:0%
+understand, through
+ 
+
+00:01:00.840 --> 00:01:02.930 align:start position:0%
+understand, through
+a <00:01:01.320><c>functional </c><00:01:01.800><c>exercise, </c><00:01:02.280><c>what </c><00:01:02.760><c>the</c>
+
+00:01:02.930 --> 00:01:02.940 align:start position:0%
+a functional exercise, what the
+ 
+
+00:01:02.940 --> 00:01:04.969 align:start position:0%
+a functional exercise, what the
+characteristics <00:01:03.204><c>of </c><00:01:03.468><c>these </c><00:01:03.732><c>components </c><00:01:03.996><c>are </c><00:01:04.260><c>and</c>
+
+00:01:04.969 --> 00:01:04.979 align:start position:0%
+characteristics of these components are and
+ 
+
+00:01:04.979 --> 00:01:07.910 align:start position:0%
+characteristics of these components are and
+how <00:01:05.639><c>to </c><00:01:06.299><c>program </c><00:01:06.959><c>them </c><00:01:07.619><c>to</c>
+
+00:01:07.910 --> 00:01:07.920 align:start position:0%
+how to program them to
+ 
+
+00:01:07.920 --> 00:01:10.969 align:start position:0%
+how to program them to
+connect <00:01:08.279><c>with </c><00:01:08.638><c>each </c><00:01:08.997><c>other. </c><00:01:09.356><c>And </c><00:01:09.715><c>they'll </c><00:01:10.074><c>achieve </c><00:01:10.433><c>this</c>
+
+00:01:10.969 --> 00:01:10.979 align:start position:0%
+connect with each other. And they'll achieve this
+ 
+
+00:01:10.979 --> 00:01:13.429 align:start position:0%
+connect with each other. And they'll achieve this
+guided <00:01:11.564><c>exercise </c><00:01:12.149><c>of </c><00:01:12.734><c>creating </c><00:01:13.319><c>a</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+guided exercise of creating a
+ 
+
+00:01:13.439 --> 00:01:15.230 align:start position:0%
+guided exercise of creating a
+game, <00:01:14.939><c>developing</c>
+
+00:01:15.230 --> 00:01:15.240 align:start position:0%
+game, developing
+ 
+
+00:01:15.240 --> 00:01:17.510 align:start position:0%
+game, developing
+computational <00:01:15.612><c>thinking, </c><00:01:15.984><c>or </c><00:01:16.356><c>this </c><00:01:16.728><c>logical </c><00:01:17.100><c>thinking</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+computational thinking, or this logical thinking
+ 
+
+00:01:17.520 --> 00:01:19.070 align:start position:0%
+computational thinking, or this logical thinking
+that...  <00:01:18.210><c>Through </c><00:01:18.900><c>programming,</c>
+
+00:01:19.070 --> 00:01:19.080 align:start position:0%
+that...  Through programming,
+ 
+
+00:01:19.080 --> 00:01:21.289 align:start position:0%
+that...  Through programming,
+they <00:01:19.699><c>can </c><00:01:20.318><c>understand </c><00:01:20.937><c>how</c>
+
+00:01:21.289 --> 00:01:21.299 align:start position:0%
+they can understand how
+ 
+
+00:01:21.299 --> 00:01:23.649 align:start position:0%
+they can understand how
+things <00:01:21.644><c>work </c><00:01:21.989><c>in </c><00:01:22.334><c>different </c><00:01:22.679><c>ways,</c>
+
+00:01:23.649 --> 00:01:23.659 align:start position:0%
+things work in different ways,
+ 
+
+00:01:23.659 --> 00:01:25.969 align:start position:0%
+things work in different ways,
+solve <00:01:25.619><c>problems</c>
+
+00:01:25.969 --> 00:01:25.979 align:start position:0%
+solve problems
+ 
+
+00:01:25.979 --> 00:01:27.710 align:start position:0%
+solve problems
+through <00:01:26.379><c>structured </c><00:01:26.779><c>linear </c><00:01:27.179><c>thinking,</c>
+
+00:01:27.710 --> 00:01:27.720 align:start position:0%
+through structured linear thinking,
+ 
+
+00:01:27.720 --> 00:01:30.170 align:start position:0%
+through structured linear thinking,
+and <00:01:28.500><c>apply </c><00:01:29.280><c>it </c><00:01:30.060><c>in</c>
+
+00:01:30.170 --> 00:01:30.180 align:start position:0%
+and apply it in
+ 
+
+00:01:30.180 --> 00:01:32.330 align:start position:0%
+and apply it in
+daily <00:01:30.564><c>life </c><00:01:30.948><c>to </c><00:01:31.332><c>solve </c><00:01:31.716><c>their </c><00:01:32.100><c>own</c>
+
+00:01:32.330 --> 00:01:32.340 align:start position:0%
+daily life to solve their own
+ 
+
+00:01:32.340 --> 00:01:32.860 align:start position:0%
+daily life to solve their own
+problems.
+
+00:01:32.860 --> 00:01:32.870 align:start position:0%
+problems.
+ 
+
+00:01:32.870 --> 00:01:37.339 align:start position:0%
+problems.
+[Music]
+
