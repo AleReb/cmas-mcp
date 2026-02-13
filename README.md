@@ -28,8 +28,8 @@ Contiene la implementación del servidor MCP (basado en `FastMCP`) que expone la
 
 ---
 
-## Alcance Actual (Fases 1-3)
+## Alcance Actual (Completado)
 - [x] **Fase 1 (Baseline):** Definición de arquitectura, transporte (stdio/http) y esquemas de respuesta.
 - [x] **Fase 2 (Ingesta):** Captura del 100% de metadatos y subtítulos del canal de YouTube (193 videos).
 - [x] **Fase 3 (Pipeline):** Estructuración de datos procesados, generación de índice léxico y limpieza de texto.
-- [ ] **En progreso:** Generación masiva de resúmenes expertos de alto valor para todo el dataset.
+- [x] **Fase 4 (Enriquecimiento):** Generación del 100% de resúmenes ejecutivos, keywords técnicas e identificación de entidades para los 193 videos mediante IA. (Finalizado: 12 de febrero, 2026).
